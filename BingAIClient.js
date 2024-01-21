@@ -8,7 +8,7 @@ import { BingImageCreator } from '@timefox/bic-sydney';
 import { SocksProxyAgent } from 'socks-proxy-agent';
 
 // Example SOCKS5 proxy configuration - replace with your actual details
-const socksProxyUrl = 'socks5h://gate.smartproxy.com:10001';
+const socksProxyUrl = 'gate.smartproxy.com:10001:spktkeiuf2:QDP4mp4ke7tj3otnsH';
 const socksAgent = new SocksProxyAgent(socksProxyUrl);
 
 
