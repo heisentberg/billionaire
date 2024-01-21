@@ -589,7 +589,7 @@ export default class BingAIClient {
         const replyMessage = {
             id: crypto.randomUUID(),
             parentMessageId: userMessage.id,
-            role: 'Bing',
+            role: 'IntelliumGPT',
             message: reply.text,
             details: reply,
         };
