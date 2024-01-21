@@ -8,7 +8,7 @@ import { BingImageCreator } from '@timefox/bic-sydney';
 import { SocksProxyAgent } from 'socks-proxy-agent';
 
 // Example SOCKS5 proxy configuration - replace with your actual details
-const socksProxyUrl = 'socks5h://user-spktkeiuf2-country-mn:QDP4mp4ke7tj3otnsH@gate.smartproxy.com:10001';
+const socksProxyUrl = 'socks5h://spktkeiuf2:QDP4mp4ke7tj3otnsH@gate.smartproxy.com:10000';
 const socksAgent = new SocksProxyAgent(socksProxyUrl);
 
 
@@ -123,12 +123,40 @@ export default class BingAIClient {
             fetchOptions.dispatcher = new Agent({ connect: { timeout: 20_000 } });
         }
         const response = await fetch(`${this.options.host}/turing/conversation/create?bundleVersion=1.864.15`, fetchOptions);
-        const body = await response.text();
+    const body = await response.text();
+    console.log("Raw Response Body:", body);  // Log raw response body
+    if (!response.ok) {
+        throw new Error(`HTTP Error: ${response.status} - ${body}`);  // Check HTTP status
+    }
+    console.log("Raw Response Body:", body);  // Log raw response body
+    if (!response.ok) {
+        throw new Error(`HTTP Error: ${response.status} - ${body}`);  // Check HTTP status
+    }
+    console.log("Raw Response Body:", body);  // Log raw response body
+    if (!response.ok) {
+        throw new Error(`HTTP Error: ${response.status} - ${body}`);  // Check HTTP status
+    }
+    console.log("Raw Response Body:", body);  // Log raw response body
+    if (!response.ok) {
+        throw new Error(`HTTP Error: ${response.status} - ${body}`);  // Check HTTP status
+    }
+    console.log("Raw Response Body:", body);  // Log raw response body
+    if (!response.ok) {
+        throw new Error(`HTTP Error: ${response.status} - ${body}`);  // Check HTTP status
+    }
         try {
             const res = JSON.parse(body);
             res.encryptedConversationSignature = response.headers.get('x-sydney-encryptedconversationsignature') ?? null;
             return res;
-        } catch (err) {
+    } catch (err) {
+        console.error("Error parsing JSON:", err);
+        throw new Error(`/turing/conversation/create: failed to parse response body.\nRaw Body: ${body}\nError: ${err.message}`);
+        console.error("Error parsing JSON:", err);
+        throw new Error(`/turing/conversation/create: failed to parse response body.\nRaw Body: ${body}\nError: ${err.message}`);
+        console.error("Error parsing JSON:", err);
+        throw new Error(`/turing/conversation/create: failed to parse response body.\nRaw Body: ${body}\nError: ${err.message}`);
+        console.error("Error parsing JSON:", err);
+        throw new Error(`/turing/conversation/create: failed to parse response body.\nRaw Body: ${body}\nError: ${err.message}`);
             throw new Error(`/turing/conversation/create: failed to parse response body.\n${body}`);
         }
     }
