@@ -5,11 +5,6 @@ import Keyv from 'keyv';
 import { Agent, ProxyAgent } from 'undici';
 import { HttpsProxyAgent } from 'https-proxy-agent';
 import { BingImageCreator } from '@timefox/bic-sydney';
-import { SocksProxyAgent } from 'socks-proxy-agent';
-
-// Example SOCKS5 proxy configuration - replace with your actual details 
-const socksProxyUrl = 'socks5h://spktkeiuf2:QDP4mp4ke7tj3otnsH@gate.smartproxy.com:10000'; 
-const socksAgent = new SocksProxyAgent(socksProxyUrl);
 
 /**
  * https://stackoverflow.com/a/58326357
