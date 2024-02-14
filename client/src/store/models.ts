@@ -12,7 +12,7 @@ const modelsConfig = atom<TModelsConfig>({
     [EModelEndpoint.assistant]: openAIModels.filter(fitlerAssistantModels),
     [EModelEndpoint.gptPlugins]: openAIModels,
     [EModelEndpoint.azureOpenAI]: openAIModels,
-    [EModelEndpoint.bingAI]: ['IntGPT', 'IntGPT Pro'],
+    [EModelEndpoint.bingAI]: ['IntGPT Pro', 'IntGPT'],
     [EModelEndpoint.chatGPTBrowser]: ['text-davinci-002-render-sha'],
     [EModelEndpoint.google]: ['chat-bison', 'text-bison', 'codechat-bison'],
     [EModelEndpoint.anthropic]: [
