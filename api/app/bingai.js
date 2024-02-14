@@ -26,7 +26,7 @@ const askBing = async ({
       expiresAt,
       'Your BingAI Cookies have expired. Please provide your cookies again.',
     );
-    key = await getUserKey({ userId, name: 'IntGPT' });
+    key = await getUserKey({ userId, name: 'IntGPT Pro' });
   }
 
   const { BingAIClient } = await import('nodejs-gpt');
