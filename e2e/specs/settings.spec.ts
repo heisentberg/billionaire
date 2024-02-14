@@ -37,8 +37,8 @@ test.describe('Settings suite', () => {
     await endpointItem.click();
 
     await page.getByTestId('text-input').click();
-    const button1 = page.getByRole('button', { name: 'Mode: IntGPT' });
-    const button2 = page.getByRole('button', { name: 'Mode: IntGPT Pro' });
+    const button1 = page.getByRole('button', { name: 'Mode: IntGPT Pro' });
+    const button2 = page.getByRole('button', { name: 'Mode: IntGPT' });
 
     try {
       await button1.click({ timeout: 100 });
