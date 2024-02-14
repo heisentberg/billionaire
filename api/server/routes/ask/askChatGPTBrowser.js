@@ -92,7 +92,7 @@ const ask = async ({
           lastSavedTimestamp = currentTimestamp;
           saveMessage({
             messageId: responseMessageId,
-            sender: endpointOption?.jailbreak ? 'IntGPT Pro' : 'IntGPT',
+            sender: endpointOption?.jailbreak ? 'IntGPT' : 'IntGPT Pro',
             conversationId,
             parentMessageId: overrideParentMessageId || userMessageId,
             text: text,
