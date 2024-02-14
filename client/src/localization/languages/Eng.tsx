@@ -110,8 +110,8 @@ export default {
   com_auth_submit_registration: 'Submit registration',
   com_auth_welcome_back: 'Welcome back',
   com_endpoint_open_menu: 'Open Menu',
-  com_endpoint_bing_enable_sydney: 'Enable IntGPT Pro',
-  com_endpoint_bing_to_enable_sydney: 'To enable IntGPT Pro',
+  com_endpoint_bing_enable_sydney: 'Enable IntGPT',
+  com_endpoint_bing_to_enable_sydney: 'To enable IntGPT',
   com_endpoint_bing_jailbreak: 'Jailbreak',
   com_endpoint_bing_context_placeholder:
     'Bing can use up to 7k tokens for \'context\', which it can reference for the conversation. The specific limit is not known but may run into errors exceeding 7k tokens',
