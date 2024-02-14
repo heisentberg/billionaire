@@ -33,7 +33,7 @@ export const getPresetTitle = (preset: TPreset) => {
     }
   } else if (endpoint === EModelEndpoint.bingAI) {
     if (jailbreak) {
-      _title = 'IntGPT Pro';
+      _title = 'IntGPT';
     }
     if (toneStyle) {
       _title += `: ${toneStyle}`;
