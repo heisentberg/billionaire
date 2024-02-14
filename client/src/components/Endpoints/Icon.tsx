@@ -62,11 +62,11 @@ const Icon: React.FC<IconProps> = (props) => {
       },
       [EModelEndpoint.bingAI]: {
         icon: jailbreak ? (
-          <img src="/assets/bingai-jb.png" alt="IntGPT Icon" />
+          <img src="/assets/bingai.png" alt="IntGPT Icon" />
         ) : (
-          <img src="/assets/bingai.png" alt="IntGPT Pro Icon" />
+          <img src="/assets/bingai-jb.png" alt="IntGPT Pro Icon" />
         ),
-        name: jailbreak ? 'IntGPT Pro' : 'IntGPT',
+        name: jailbreak ? 'IntGPT' : 'IntGPT Pro',
       },
       [EModelEndpoint.chatGPTBrowser]: {
         icon: <GPTIcon size={size * 0.5555555555555556} />,
