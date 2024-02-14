@@ -529,7 +529,7 @@ export const getResponseSender = (endpointOption: TEndpointOption): string => {
   }
 
   if (endpoint === EModelEndpoint.bingAI) {
-    return jailbreak ? 'IntGPT Pro' : 'IntGPT';
+    return jailbreak ? 'IntGPT' : 'IntGPT Pro';
   }
 
   if (endpoint === EModelEndpoint.anthropic) {
