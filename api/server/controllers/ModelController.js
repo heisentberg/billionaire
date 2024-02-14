@@ -24,7 +24,7 @@ async function modelController(req, res) {
       [EModelEndpoint.azureOpenAI]: azureOpenAI,
       [EModelEndpoint.assistant]: openAI.filter(fitlerAssistantModels),
       [EModelEndpoint.google]: ['chat-bison', 'text-bison', 'codechat-bison'],
-      [EModelEndpoint.bingAI]: ['IntGPT', 'IntGPT Pro'],
+      [EModelEndpoint.bingAI]: ['IntGPT Pro', 'IntGPT'],
       [EModelEndpoint.chatGPTBrowser]: chatGPTBrowser,
       [EModelEndpoint.gptPlugins]: gptPlugins,
       [EModelEndpoint.anthropic]: anthropic,
