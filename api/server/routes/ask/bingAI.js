@@ -103,7 +103,7 @@ const ask = async ({
   const user = req.user.id;
 
   let responseMessageId = crypto.randomUUID();
-  const model = endpointOption?.jailbreak ? 'IntGPT Pro' : 'IntGPT';
+  const model = endpointOption?.jailbreak ? 'IntGPT' : 'IntGPT Pro';
 
   if (preSendRequest) {
     sendMessage(res, { message: userMessage, created: true });
