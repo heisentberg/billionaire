@@ -67,7 +67,7 @@ const MessageHeader = ({ isSearchView = false }) => {
           _title += `: ${toneStyle}`;
         }
         if (jailbreak) {
-          _title += ' as IntGPT Pro';
+          _title += ' as IntGPT';
         }
       } else if (endpoint === EModelEndpoint.chatGPTBrowser) {
         if (model) {
