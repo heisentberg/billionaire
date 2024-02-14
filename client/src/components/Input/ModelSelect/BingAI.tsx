@@ -34,9 +34,9 @@ export default function BingAI({
     <>
       <Menu
         title="Mode"
-        value={jailbreak ? 'IntGPT Pro' : 'IntGPT'}
+        value={jailbreak ? 'IntGPT' : 'IntGPT Pro'}
         data-testid="bing-select-dropdown"
-        setValue={(value) => setOption('jailbreak')(value === 'IntGPT Pro')}
+        setValue={(value) => setOption('jailbreak')(value === 'IntGPT')}
         availableValues={models}
         showAbove={showAbove}
         showLabel={false}
