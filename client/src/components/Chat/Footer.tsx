@@ -1,4 +1,4 @@
-import { useGetStartupConfig } from 'librechat-data-provider';
+import { useGetStartupConfig } from 'librechat-data-provider/react-query';
 import { useLocalize } from '~/hooks';
 
 export default function Footer() {
@@ -17,7 +17,7 @@ export default function Footer() {
               rel="noreferrer"
               className="underline"
             >
-              {config?.appTitle || 'IntelliumGP T'} v2.0
+              {config?.appTitle || 'IntelliumGPT'} v3.0
             </a>
             {' - '} {localize('com_ui_new_footer')}
           </>

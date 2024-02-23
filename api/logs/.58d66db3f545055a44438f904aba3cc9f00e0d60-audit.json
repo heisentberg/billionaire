@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/0xborgil/Downloads/IntelliumGPT/api/logs/.58d66db3f545055a44438f904aba3cc9f00e0d60-audit.json",
+    "files": [
+        {
+            "date": 1708644041777,
+            "name": "/Users/0xborgil/Downloads/IntelliumGPT/api/logs/debug-2024-02-23.log",
+            "hash": "94906d0f1d10ff34687677e18387c45521fa5a5734acba71371948fca2ad17d0"
+        }
+    ],
+    "hashType": "sha256"
+}

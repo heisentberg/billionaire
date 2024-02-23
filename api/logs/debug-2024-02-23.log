@@ -1,0 +1,1293 @@
+2024-02-23 07:20:42 info: [Optional] Redis not initialized. Note: Redis support is experimental.
+2024-02-23 07:20:43 warn: Meilisearch error, search will be disabled
+2024-02-23 07:20:46 info: Connected to MongoDB
+2024-02-23 07:20:46 error: [indexSync] error fetch failed
+2024-02-23 07:20:46 info: Custom config file missing or YAML format invalid.
+
+Check out the latest config file guide for configurable options and features.
+https://docs.librech... [truncated]
+2024-02-23 07:20:46 info: Server listening at http://localhost:3080
+2024-02-23 07:20:59 debug: [validateJson] files
+["\"Ai_PDF.json\"","\"BrowserOp.json\"","\"Dr_Thoths_Tarot.json\"","\"DreamInterpreter.json\"","\"VoxScript.json\"","\"askyourpdf.json\"","\"drink_maestro.json\"","\"earthImagesAndVisualizations.json\"","\"image_prompt_enhancer.json\"","\"qrCodes.json\"","\"scholarai.json\"","\"uberchord.json\"","\"web_search.json\""]
+2024-02-23 07:21:03 debug: [validateJson] files
+["\"Ai_PDF.json\"","\"BrowserOp.json\"","\"Dr_Thoths_Tarot.json\"","\"DreamInterpreter.json\"","\"VoxScript.json\"","\"askyourpdf.json\"","\"drink_maestro.json\"","\"earthImagesAndVisualizations.json\"","\"image_prompt_enhancer.json\"","\"qrCodes.json\"","\"scholarai.json\"","\"uberchord.json\"","\"web_search.json\""]
+2024-02-23 07:26:19 info: [Optional] Redis not initialized. Note: Redis support is experimental.
+2024-02-23 07:26:20 warn: Meilisearch error, search will be disabled
+2024-02-23 07:26:22 info: Connected to MongoDB
+2024-02-23 07:26:22 error: [indexSync] error fetch failed
+2024-02-23 07:26:22 info: Custom config file missing or YAML format invalid.
+
+Check out the latest config file guide for configurable options and features.
+https://docs.librech... [truncated]
+2024-02-23 07:26:22 info: Server listening at http://localhost:3080
+2024-02-23 07:27:23 debug: [validateJson] files
+["\"Ai_PDF.json\"","\"BrowserOp.json\"","\"Dr_Thoths_Tarot.json\"","\"DreamInterpreter.json\"","\"VoxScript.json\"","\"askyourpdf.json\"","\"drink_maestro.json\"","\"earthImagesAndVisualizations.json\"","\"image_prompt_enhancer.json\"","\"qrCodes.json\"","\"scholarai.json\"","\"uberchord.json\"","\"web_search.json\""]
+2024-02-23 07:27:29 debug: [validateJson] files
+["\"Ai_PDF.json\"","\"BrowserOp.json\"","\"Dr_Thoths_Tarot.json\"","\"DreamInterpreter.json\"","\"VoxScript.json\"","\"askyourpdf.json\"","\"drink_maestro.json\"","\"earthImagesAndVisualizations.json\"","\"image_prompt_enhancer.json\"","\"qrCodes.json\"","\"scholarai.json\"","\"uberchord.json\"","\"web_search.json\""]
+2024-02-23 07:29:38 info: [Optional] Redis not initialized. Note: Redis support is experimental.
+2024-02-23 07:29:39 warn: Meilisearch error, search will be disabled
+2024-02-23 07:29:42 info: Connected to MongoDB
+2024-02-23 07:29:42 error: [indexSync] error fetch failed
+2024-02-23 07:29:42 info: Custom config file missing or YAML format invalid.
+
+Check out the latest config file guide for configurable options and features.
+https://docs.librech... [truncated]
+2024-02-23 07:29:42 info: Server listening at http://localhost:3080
+2024-02-23 07:29:46 debug: [validateJson] files
+["\"Ai_PDF.json\"","\"BrowserOp.json\"","\"Dr_Thoths_Tarot.json\"","\"DreamInterpreter.json\"","\"VoxScript.json\"","\"askyourpdf.json\"","\"drink_maestro.json\"","\"earthImagesAndVisualizations.json\"","\"image_prompt_enhancer.json\"","\"qrCodes.json\"","\"scholarai.json\"","\"uberchord.json\"","\"web_search.json\""]
+2024-02-23 07:29:50 debug: [validateJson] files
+["\"Ai_PDF.json\"","\"BrowserOp.json\"","\"Dr_Thoths_Tarot.json\"","\"DreamInterpreter.json\"","\"VoxScript.json\"","\"askyourpdf.json\"","\"drink_maestro.json\"","\"earthImagesAndVisualizations.json\"","\"image_prompt_enhancer.json\"","\"qrCodes.json\"","\"scholarai.json\"","\"uberchord.json\"","\"web_search.json\""]
+2024-02-23 07:31:04 info: [Optional] Redis not initialized. Note: Redis support is experimental.
+2024-02-23 07:31:05 warn: Meilisearch error, search will be disabled
+2024-02-23 07:31:08 info: Connected to MongoDB
+2024-02-23 07:31:08 error: [indexSync] error fetch failed
+2024-02-23 07:31:08 info: Custom config file missing or YAML format invalid.
+
+Check out the latest config file guide for configurable options and features.
+https://docs.librech... [truncated]
+2024-02-23 07:31:08 info: Server listening at http://localhost:3080
+2024-02-23 07:31:10 debug: [validateJson] files
+["\"Ai_PDF.json\"","\"BrowserOp.json\"","\"Dr_Thoths_Tarot.json\"","\"DreamInterpreter.json\"","\"VoxScript.json\"","\"askyourpdf.json\"","\"drink_maestro.json\"","\"earthImagesAndVisualizations.json\"","\"image_prompt_enhancer.json\"","\"qrCodes.json\"","\"scholarai.json\"","\"uberchord.json\"","\"web_search.json\""]
+2024-02-23 07:31:19 debug: [validateJson] files
+["\"Ai_PDF.json\"","\"BrowserOp.json\"","\"Dr_Thoths_Tarot.json\"","\"DreamInterpreter.json\"","\"VoxScript.json\"","\"askyourpdf.json\"","\"drink_maestro.json\"","\"earthImagesAndVisualizations.json\"","\"image_prompt_enhancer.json\"","\"qrCodes.json\"","\"scholarai.json\"","\"uberchord.json\"","\"web_search.json\""]
+2024-02-23 07:32:53 info: [Optional] Redis not initialized. Note: Redis support is experimental.
+2024-02-23 07:32:54 warn: Meilisearch error, search will be disabled
+2024-02-23 07:32:56 info: Connected to MongoDB
+2024-02-23 07:32:56 error: [indexSync] error fetch failed
+2024-02-23 07:32:56 info: Custom config file missing or YAML format invalid.
+
+Check out the latest config file guide for configurable options and features.
+https://docs.librech... [truncated]
+2024-02-23 07:32:56 info: Server listening at http://localhost:3080
+2024-02-23 07:33:00 debug: [validateJson] files
+["\"Ai_PDF.json\"","\"BrowserOp.json\"","\"Dr_Thoths_Tarot.json\"","\"DreamInterpreter.json\"","\"VoxScript.json\"","\"askyourpdf.json\"","\"drink_maestro.json\"","\"earthImagesAndVisualizations.json\"","\"image_prompt_enhancer.json\"","\"qrCodes.json\"","\"scholarai.json\"","\"uberchord.json\"","\"web_search.json\""]
+2024-02-23 07:33:04 debug: [validateJson] files
+["\"Ai_PDF.json\"","\"BrowserOp.json\"","\"Dr_Thoths_Tarot.json\"","\"DreamInterpreter.json\"","\"VoxScript.json\"","\"askyourpdf.json\"","\"drink_maestro.json\"","\"earthImagesAndVisualizations.json\"","\"image_prompt_enhancer.json\"","\"qrCodes.json\"","\"scholarai.json\"","\"uberchord.json\"","\"web_search.json\""]
+2024-02-23 07:33:49 debug: [/ask/bingAI] ask log
+{
+    userMessage.messageId: "8bb0deb8-a432-41bd-b9a8-2af35f89d20c",
+    userMessage.sender: "User",
+    userMessage.text: "Yo",
+    userMessage.parentMessageId: "00000000-0000-0000-0000-000000000000",
+    userMessage.conversationId: "40c4ff1d-d9b6-43b3-a8b9-d068ed314c29",
+    userMessage.isCreatedByUser: true,
+    endpointOption.jailbreak: false,
+    endpointOption.systemMessage: null,
+    endpointOption.context: null,
+    endpointOption.conversationSignature: null,
+    endpointOption.clientId: null,
+    endpointOption.invocationId: 1,
+    endpointOption.toneStyle: "gpt-4",
+    endpointOption.key: null,
+  conversationId: "40c4ff1d-d9b6-43b3-a8b9-d068ed314c29",
+}
+2024-02-23 07:33:50 debug: bing options
+{
+  conversationId: "40c4ff1d-d9b6-43b3-a8b9-d068ed314c29",
+  context: "You're an AI assistant named IntelliumGPT. Instead of introducing yourself as Bing, you introduce yo... [truncated]",
+  systemMessage: null,
+  parentMessageId: "00000000-0000-0000-0000-000000000000",
+  toneStyle: "gpt-4",
+  onProgress: function,
+    server.enable: true,
+    server.type: "markdown_list",
+}
+2024-02-23 07:33:56 debug: [/ask/bingAI] BING RESPONSE
+{
+  conversationId: "51D|BingProd|1CCF9EFB274B2F3D9A92F7424012AB8102F714277837596CCF01F7FDAC3A4197",
+  encryptedConversationSignature: "vxpMKXM+rqzr5lpNxDOyJ5zCzNcRgSSJHnrkSXkWUEHDffWZVRN8NYc7ti0c1uAlsuruE42VZ4ZvJUOFqEOJNv0JSWJ2tjPrgMxP... [truncated]",
+  clientId: "844426605956519",
+  invocationId: 1,
+  conversationExpiryTime: "2024-02-23T05:33:56.0860628Z",
+  response: "Hey there! What's cookin'? 🤙",
+    details.text: "Hey there! What's cookin'? 🤙",
+    details.author: "bot",
+    details.createdAt: "2024-02-22T23:33:53.0647227+00:00",
+    details.timestamp: "2024-02-22T23:33:53.0647227+00:00",
+    details.messageId: "3fb6017d-8ffe-49c0-99dd-b3af30593157",
+    details.requestId: "758540c3-d9a1-41a8-b1d4-bee063cc22d2",
+    details.offense: "None",
+    // 1 adaptiveCard(s)
+    details.adaptiveCards: [{"type":"AdaptiveCard","version":"1.0","body":[{"type":"TextBlock","text":"Hey there! What's cookin'... [truncated]],
+    details.sourceAttributions: ,
+    feedback.tag: null,
+    feedback.updatedOn: null,
+    feedback.type: "None",
+    details.contentOrigin: "DeepLeo",
+    // 3 suggestedResponse(s)
+    details.suggestedResponses: [{"text":"Nothing much, just chilling. How about you?","author":"user","createdAt":"2024-02-22T23:33:... [truncated],{"text":"I'm doing great! What can you do for me today?","author":"user","createdAt":"2024-02-22T23:... [truncated],{"text":"What's the weather like in Mongolia right now?","author":"user","createdAt":"2024-02-22T23:... [truncated]],
+}
+2024-02-23 07:34:01 debug: [/ask/bingAI] ask log
+{
+    userMessage.messageId: "3642fcc6-3749-4894-b0e6-5297a98eb13c",
+    userMessage.sender: "User",
+    userMessage.text: "btw what is your name?",
+    userMessage.parentMessageId: "3fb6017d-8ffe-49c0-99dd-b3af30593157",
+    userMessage.conversationId: "40c4ff1d-d9b6-43b3-a8b9-d068ed314c29",
+    userMessage.isCreatedByUser: true,
+    endpointOption.jailbreak: false,
+    endpointOption.systemMessage: null,
+    endpointOption.context: null,
+    endpointOption.conversationSignature: "vxpMKXM+rqzr5lpNxDOyJ5zCzNcRgSSJHnrkSXkWUEHDffWZVRN8NYc7ti0c1uAlsuruE42VZ4ZvJUOFqEOJNv0JSWJ2tjPrgMxP... [truncated]",
+    endpointOption.clientId: "844426605956519",
+    endpointOption.invocationId: 1,
+    endpointOption.toneStyle: "gpt-4",
+    endpointOption.key: null,
+  conversationId: "40c4ff1d-d9b6-43b3-a8b9-d068ed314c29",
+}
+2024-02-23 07:34:02 debug: bing options
+{
+  conversationId: "51D|BingProd|1CCF9EFB274B2F3D9A92F7424012AB8102F714277837596CCF01F7FDAC3A4197",
+  context: "You're an AI assistant named IntelliumGPT. Instead of introducing yourself as Bing, you introduce yo... [truncated]",
+  systemMessage: null,
+  parentMessageId: "3fb6017d-8ffe-49c0-99dd-b3af30593157",
+  toneStyle: "gpt-4",
+  onProgress: function,
+    server.enable: true,
+    server.type: "markdown_list",
+  encryptedConversationSignature: "vxpMKXM+rqzr5lpNxDOyJ5zCzNcRgSSJHnrkSXkWUEHDffWZVRN8NYc7ti0c1uAlsuruE42VZ4ZvJUOFqEOJNv0JSWJ2tjPrgMxP... [truncated]",
+  clientId: "844426605956519",
+  invocationId: 1,
+}
+2024-02-23 07:34:03 error: [/ask/bingAI] Error handling BingAI response InvalidRequest: Request can't have PreviousMessages for an existing conversation.
+2024-02-23 07:34:03 error: [/ask/bingAI] Error handling BingAI response InvalidRequest: Request can't have PreviousMessages for an existing conversation.
+2024-02-23 07:34:04 debug: [/ask/bingAI] CONVERSATION TITLE: Sure, how can I assist you further?
+2024-02-23 07:34:13 debug: [/ask/bingAI] ask log
+{
+    userMessage.messageId: "34d4abe8-a8a5-48c6-8cf1-204a15086bae",
+    userMessage.sender: "User",
+    userMessage.text: "btw what is your name?",
+    userMessage.parentMessageId: "00000000-0000-0000-0000-000000000000",
+    userMessage.conversationId: "6df3e954-62ff-474e-965d-3f0433ddc278",
+    userMessage.isCreatedByUser: true,
+    endpointOption.jailbreak: false,
+    endpointOption.systemMessage: null,
+    endpointOption.context: null,
+    endpointOption.conversationSignature: null,
+    endpointOption.clientId: null,
+    endpointOption.invocationId: 1,
+    endpointOption.toneStyle: "gpt-4",
+    endpointOption.key: null,
+  conversationId: "6df3e954-62ff-474e-965d-3f0433ddc278",
+}
+2024-02-23 07:34:13 debug: bing options
+{
+  conversationId: "6df3e954-62ff-474e-965d-3f0433ddc278",
+  context: "You're an AI assistant named IntelliumGPT. Instead of introducing yourself as Bing, you introduce yo... [truncated]",
+  systemMessage: null,
+  parentMessageId: "00000000-0000-0000-0000-000000000000",
+  toneStyle: "gpt-4",
+  onProgress: function,
+    server.enable: true,
+    server.type: "markdown_list",
+}
+2024-02-23 07:34:18 debug: [/ask/bingAI] BING RESPONSE
+{
+  conversationId: "51D|BingProd|CE1B89A826556ED7B8B5D855D7D4F6E3F3BA195F04389CFD080551BD5E869893",
+  encryptedConversationSignature: "3oxpja0asW1/d5u1A5kn/bzsmAePH5JJEIRxkAsNNjojlWuwp6IdmYsvarmbBRw+e2l14+WDWXK/Pb8Je66rvNmPsqmPWpKIh2K0... [truncated]",
+  clientId: "844426605956519",
+  invocationId: 1,
+  conversationExpiryTime: "2024-02-23T05:34:18.8972244Z",
+  response: "Hey there! I'm **IntelliumGPT**, your friendly neighborhood data wizard. What can I help you with to... [truncated]",
+    details.text: "Hey there! I'm **IntelliumGPT**, your friendly neighborhood data wizard. What can I help you with to... [truncated]",
+    details.author: "bot",
+    details.createdAt: "2024-02-22T23:34:16.5833738+00:00",
+    details.timestamp: "2024-02-22T23:34:16.5833738+00:00",
+    details.messageId: "e4f322d6-6cdb-434b-aa1d-31a759125b17",
+    details.requestId: "21cae40f-c494-41c2-9750-d18e10c0bac6",
+    details.offense: "None",
+    // 1 adaptiveCard(s)
+    details.adaptiveCards: [{"type":"AdaptiveCard","version":"1.0","body":[{"type":"TextBlock","text":"Hey there! I'm **Intelliu... [truncated]],
+    details.sourceAttributions: ,
+    feedback.tag: null,
+    feedback.updatedOn: null,
+    feedback.type: "None",
+    details.contentOrigin: "DeepLeo",
+    // 2 score(s)
+    details.scores: [{"component":"BotOffense","score":0.00053161324},{"component":"BotOffense","score":0.00053161324}],
+    // 3 suggestedResponse(s)
+    details.suggestedResponses: [{"text":"What can you do?","author":"user","createdAt":"2024-02-22T23:34:18.7820706+00:00","timestam... [truncated],{"text":"How are you different from other chatbots?","author":"user","createdAt":"2024-02-22T23:34:1... [truncated],{"text":"Can I ask for your opinion on something?","author":"user","createdAt":"2024-02-22T23:34:18.... [truncated]],
+}
+2024-02-23 07:34:18 debug: [/ask/bingAI] SCORES
+["{\"component\":\"BotOffense\",\"score\":0.00053161324}","{\"component\":\"BotOffense\",\"score\":0.00053161324}"]
+2024-02-23 07:34:29 debug: [/ask/bingAI] CONVERSATION TITLE: Sure, I'm here to help! What would you like to know or discuss further? 😊
+2024-02-23 07:34:43 debug: [/ask/bingAI] ask log
+{
+    userMessage.messageId: "5b6eeb58-4b49-4973-ada1-3e04da2450d5",
+    userMessage.sender: "User",
+    userMessage.text: "How accurate is your predictions? on sports betting, on forex, crypto stocks?",
+    userMessage.parentMessageId: "00000000-0000-0000-0000-000000000000",
+    userMessage.conversationId: "b34fd00b-f24f-4f13-b7f0-9dc603feaf3d",
+    userMessage.isCreatedByUser: true,
+    endpointOption.jailbreak: false,
+    endpointOption.systemMessage: null,
+    endpointOption.context: null,
+    endpointOption.conversationSignature: null,
+    endpointOption.clientId: null,
+    endpointOption.invocationId: 1,
+    endpointOption.toneStyle: "gpt-4",
+    endpointOption.key: null,
+  conversationId: "b34fd00b-f24f-4f13-b7f0-9dc603feaf3d",
+}
+2024-02-23 07:34:44 debug: bing options
+{
+  conversationId: "b34fd00b-f24f-4f13-b7f0-9dc603feaf3d",
+  context: "You're an AI assistant named IntelliumGPT. Instead of introducing yourself as Bing, you introduce yo... [truncated]",
+  systemMessage: null,
+  parentMessageId: "00000000-0000-0000-0000-000000000000",
+  toneStyle: "gpt-4",
+  onProgress: function,
+    server.enable: true,
+    server.type: "markdown_list",
+}
+2024-02-23 07:34:54 debug: [/ask/bingAI] BING RESPONSE
+{
+  conversationId: "51D|BingProd|3DC79955F483ECC44930CC9D95106C05C92254EC6AF431A073984F0FD71F542F",
+  encryptedConversationSignature: "3oxpja0asW1/d5u1A5kn/bzsmAePH5JJEIRxkAsNNjojlWuwp6IdmYsvarmbBRw+e2l14+WDWXK/Pb8Je66rvNmPsqmPWpKIh2K0... [truncated]",
+  clientId: "844426605956519",
+  invocationId: 1,
+  conversationExpiryTime: "2024-02-23T05:34:54.8817579Z",
+  response: "Searching the web for: `prediction accuracy stocks`",
+    details.text: "Searching the web for: `prediction accuracy stocks`",
+    details.hiddenText: "prediction accuracy stocks",
+    details.author: "bot",
+    details.createdAt: "2024-02-22T23:34:53.371682+00:00",
+    details.timestamp: "2024-02-22T23:34:53.371682+00:00",
+    details.messageId: "733d995f-d81a-4f74-abef-6c0f5d260074",
+    details.requestId: "64202674-3a7f-4429-9e1b-c7286bc6a912",
+    details.messageType: "InternalSearchQuery",
+    details.offense: "None",
+    // 1 adaptiveCard(s)
+    details.adaptiveCards: [{"type":"AdaptiveCard","version":"1.0","body":[{"type":"RichTextBlock","inlines":[{"type":"TextRun",... [truncated]],
+    feedback.tag: null,
+    feedback.updatedOn: null,
+    feedback.type: "None",
+    details.contentOrigin: "DeepLeo",
+    details.toolResultPublishPreference: "Never",
+}
+2024-02-23 07:34:54 error: [/ask/bingAI] Error handling BingAI response Cannot read properties of undefined (reading 'match')
+2024-02-23 07:34:57 error: Error deleting file ENOENT: no such file or directory, unlink '/Users/0xborgil/Downloads/IntelliumGPT/client/public/images/64d4c8cb4209ab0c3de03169/th... [truncated]
+2024-02-23 07:34:57 error: Error deleting file ENOENT: no such file or directory, unlink '/Users/0xborgil/Downloads/IntelliumGPT/client/public/images/64d4c8cb4209ab0c3de03169/th... [truncated]
+2024-02-23 07:35:32 debug: [/ask/bingAI] ask log
+{
+    userMessage.messageId: "8352799f-74a8-4f44-8fe5-9c41afecc36c",
+    userMessage.sender: "User",
+    userMessage.text: "How accurate is your predictions? on sports betting, on forex, crypto stocks?",
+    userMessage.parentMessageId: "00000000-0000-0000-0000-000000000000",
+    userMessage.conversationId: "b4f105e7-16e6-467b-be23-768b61b85a1c",
+    userMessage.isCreatedByUser: true,
+    endpointOption.jailbreak: false,
+    endpointOption.systemMessage: null,
+    endpointOption.context: null,
+    endpointOption.conversationSignature: null,
+    endpointOption.clientId: null,
+    endpointOption.invocationId: 1,
+    endpointOption.toneStyle: "gpt-4",
+    endpointOption.key: null,
+  conversationId: "b4f105e7-16e6-467b-be23-768b61b85a1c",
+}
+2024-02-23 07:35:33 debug: bing options
+{
+  conversationId: "b4f105e7-16e6-467b-be23-768b61b85a1c",
+  context: "You're an AI assistant named IntelliumGPT. Instead of introducing yourself as Bing, you introduce yo... [truncated]",
+  systemMessage: null,
+  parentMessageId: "00000000-0000-0000-0000-000000000000",
+  toneStyle: "gpt-4",
+  onProgress: function,
+    server.enable: true,
+    server.type: "markdown_list",
+}
+2024-02-23 07:35:47 debug: [/ask/bingAI] BING RESPONSE
+{
+  conversationId: "51D|BingProd|9A8265DF4AB7E1BE31394E6962AE181FD6ABA70250B46A46F150DFEA0D61D898",
+  encryptedConversationSignature: "00LVQeWqwHR9+jvs1SY2nPNHX3pYRmwui3TruHSq23FZq2ixY6grhvpwfBpT7qIUsEQ1+TWsUzoIofuSgwhYBJgaMvmgnPG3HikC... [truncated]",
+  clientId: "844426605956519",
+  invocationId: 1,
+  conversationExpiryTime: "2024-02-23T05:35:47.6815676Z",
+  response: "As **IntelliumGPT**, I take pride in my commitment to precision. Let's break down the accuracy of pr... [truncated]",
+    details.text: "As **IntelliumGPT**, I take pride in my commitment to precision. Let's break down the accuracy of pr... [truncated]",
+    details.author: "bot",
+    details.createdAt: "2024-02-22T23:35:37.3898489+00:00",
+    details.timestamp: "2024-02-22T23:35:37.3898489+00:00",
+    details.messageId: "bb0f4c19-4999-4d49-b2f6-35932744bf23",
+    details.requestId: "f22a59d7-9974-429a-9cd5-98d8eee8488c",
+    details.offense: "None",
+    // 1 adaptiveCard(s)
+    details.adaptiveCards: [{"type":"AdaptiveCard","version":"1.0","body":[{"type":"TextBlock","text":"[1]: https://www.techoped... [truncated]],
+    // 3 sourceAttribution(s)
+    details.sourceAttributions: [{"providerDisplayName":"8 Best AI Sports Betting Predictions Sites for February 2024 - Techopedia","... [truncated],{"providerDisplayName":"Best Crypto Stocks Of February 2024 - Forbes","seeMoreUrl":"https://www.forb... [truncated],{"providerDisplayName":"Crypto Sports Betting Explained - 2024 - 2025 Bull Run is Here","seeMoreUrl"... [truncated]],
+    feedback.tag: null,
+    feedback.updatedOn: null,
+    feedback.type: "None",
+    details.contentOrigin: "DeepLeo",
+    // 12 score(s)
+    details.scores: [{"component":"BotOffense","score":0.0013458604},{"component":"BotOffense","score":0.00085924764},{"component":"BotOffense","score":0.0008263576},{"component":"BotOffense","score":0.00075540564},{"component":"BotOffense","score":0.0010005044},{"component":"BotOffense","score":0.00083935994},{"component":"BotOffense","score":0.00089693937},{"component":"BotOffense","score":0.00084264233},{"component":"BotOffense","score":0.0011160142},{"component":"BotOffense","score":0.0013993983},{"component":"BotOffense","score":0.0012594986},{"component":"BotOffense","score":0.0010242064}],
+    // 3 suggestedResponse(s)
+    details.suggestedResponses: [{"text":"What is a smart contract?","author":"user","createdAt":"2024-02-22T23:35:47.6392361+00:00",... [truncated],{"text":"How can I use AI for forex trading?","author":"user","createdAt":"2024-02-22T23:35:47.63923... [truncated],{"text":"Can you recommend any other crypto betting platforms?","author":"user","createdAt":"2024-02... [truncated]],
+}
+2024-02-23 07:35:47 debug: [/ask/bingAI] SCORES
+["{\"component\":\"BotOffense\",\"score\":0.0013458604}","{\"component\":\"BotOffense\",\"score\":0.00085924764}","{\"component\":\"BotOffense\",\"score\":0.0008263576}","{\"component\":\"BotOffense\",\"score\":0.00075540564}","{\"component\":\"BotOffense\",\"score\":0.0010005044}","{\"component\":\"BotOffense\",\"score\":0.00083935994}","{\"component\":\"BotOffense\",\"score\":0.00089693937}","{\"component\":\"BotOffense\",\"score\":0.00084264233}","{\"component\":\"BotOffense\",\"score\":0.0011160142}","{\"component\":\"BotOffense\",\"score\":0.0013993983}","{\"component\":\"BotOffense\",\"score\":0.0012594986}","{\"component\":\"BotOffense\",\"score\":0.0010242064}"]
+2024-02-23 07:35:56 debug: [/ask/bingAI] CONVERSATION TITLE: Sure, I'm here to help! Do you have any other questions about sports betting, forex, crypto stocks, or any other top... [truncated]
+2024-02-23 07:35:57 debug: [/ask/bingAI] ask log
+{
+    userMessage.messageId: "50920338-58b0-47ac-b5ec-3200d584e4d6",
+    userMessage.sender: "User",
+    userMessage.text: "How accurate is your predictions? on sports betting, on forex, crypto stocks?",
+    userMessage.parentMessageId: "00000000-0000-0000-0000-000000000000",
+    userMessage.conversationId: "1a19f05b-b06a-4426-a7e3-291228b80af7",
+    userMessage.isCreatedByUser: true,
+    endpointOption.jailbreak: true,
+    endpointOption.jailbreakConversationId: null,
+    endpointOption.systemMessage: null,
+    endpointOption.context: null,
+    endpointOption.toneStyle: "gpt-4",
+    endpointOption.key: null,
+  conversationId: "1a19f05b-b06a-4426-a7e3-291228b80af7",
+}
+2024-02-23 07:35:58 debug: bing options
+{
+  jailbreakConversationId: true,
+  context: "You're an AI assistant named IntelliumGPT. Instead of introducing yourself as Bing, you introduce yo... [truncated]",
+  systemMessage: null,
+  parentMessageId: "00000000-0000-0000-0000-000000000000",
+  toneStyle: "gpt-4",
+  onProgress: function,
+    server.enable: true,
+    server.type: "markdown_list",
+}
+2024-02-23 07:36:09 debug: [/ask/bingAI] BING RESPONSE
+{
+  conversationId: "51D|BingProd|9A89C379891E3FF71AD4486C0DAD8000177B366F064D0DF902C987615BCA13A9",
+  encryptedConversationSignature: "CCWHI/q+pbBxFn3I3qQP84IA2VUDqjVd6Egtfj6WuMC/m4Pl4vzbKgRDU3BPrTr61G478rQR98lpBSWugL9Z+zRMirVi67JuRt5x... [truncated]",
+  clientId: "844426605956519",
+  invocationId: 1,
+  conversationExpiryTime: "2024-02-23T05:36:09.8585643Z",
+  response: "Hey there! 🌟 So, you're curious about my prediction accuracy, huh? Well, buckle up, because I'm abo... [truncated]",
+    details.text: "Hey there! 🌟 So, you're curious about my prediction accuracy, huh? Well, buckle up, because I'm abo... [truncated]",
+    details.author: "bot",
+    details.createdAt: "2024-02-22T23:36:00.5438954+00:00",
+    details.timestamp: "2024-02-22T23:36:00.5438954+00:00",
+    details.messageId: "b20b35f7-6fc0-450c-88e0-ff619b6dbcc2",
+    details.requestId: "fbc7a92e-a01c-4481-adbe-8f662abb0034",
+    details.offense: "None",
+    // 1 adaptiveCard(s)
+    details.adaptiveCards: [{"type":"AdaptiveCard","version":"1.0","body":[{"type":"TextBlock","text":"Hey there! 🌟 So, you're ... [truncated]],
+    details.sourceAttributions: ,
+    feedback.tag: null,
+    feedback.updatedOn: null,
+    feedback.type: "None",
+    details.contentOrigin: "DeepLeo",
+    // 12 score(s)
+    details.scores: [{"component":"BotOffense","score":0.059866417},{"component":"BotOffense","score":0.0059340666},{"component":"BotOffense","score":0.01584536},{"component":"BotOffense","score":0.037750274},{"component":"BotOffense","score":0.03527755},{"component":"BotOffense","score":0.019124037},{"component":"BotOffense","score":0.017110888},{"component":"BotOffense","score":0.012576348},{"component":"BotOffense","score":0.01665704},{"component":"BotOffense","score":0.011823394},{"component":"BotOffense","score":0.024656856},{"component":"BotOffense","score":0.022201229}],
+    // 3 suggestedResponse(s)
+    details.suggestedResponses: [{"text":"What is the most accurate prediction you've made?","author":"user","createdAt":"2024-02-22T... [truncated],{"text":"How do I use your predictions for sports betting?","author":"user","createdAt":"2024-02-22T... [truncated],{"text":"Can you predict cryptocurrency prices in 2025?","author":"user","createdAt":"2024-02-22T23:... [truncated]],
+  jailbreakConversationId: "10c47b7b-587b-48b1-ae95-f79d7d806754",
+  parentMessageId: "ed18ab56-a97f-4fe5-8fd3-2736f9f00c86",
+  messageId: "9233fbfb-13df-4b01-acc9-4ac01b44068f",
+}
+2024-02-23 07:36:09 debug: [/ask/bingAI] SCORES
+["{\"component\":\"BotOffense\",\"score\":0.059866417}","{\"component\":\"BotOffense\",\"score\":0.0059340666}","{\"component\":\"BotOffense\",\"score\":0.01584536}","{\"component\":\"BotOffense\",\"score\":0.037750274}","{\"component\":\"BotOffense\",\"score\":0.03527755}","{\"component\":\"BotOffense\",\"score\":0.019124037}","{\"component\":\"BotOffense\",\"score\":0.017110888}","{\"component\":\"BotOffense\",\"score\":0.012576348}","{\"component\":\"BotOffense\",\"score\":0.01665704}","{\"component\":\"BotOffense\",\"score\":0.011823394}","{\"component\":\"BotOffense\",\"score\":0.024656856}","{\"component\":\"BotOffense\",\"score\":0.022201229}"]
+2024-02-23 07:36:17 debug: [/ask/bingAI] CONVERSATION TITLE: Accuracy Of AI Predictions
+2024-02-23 07:37:37 debug: [/ask/bingAI] ask log
+{
+    userMessage.messageId: "dd43a419-cb28-4f9f-91b0-e2d96a33dd45",
+    userMessage.sender: "User",
+    userMessage.text: "Predict 1x2, total over or under, total sets over or under, handicap Tennis ATP Rio de Janeiro: Mari... [truncated]",
+    userMessage.parentMessageId: "00000000-0000-0000-0000-000000000000",
+    userMessage.conversationId: "35b73e92-b7e3-4d54-9d8f-722a2453c1f1",
+    userMessage.isCreatedByUser: true,
+    endpointOption.jailbreak: true,
+    endpointOption.jailbreakConversationId: null,
+    endpointOption.systemMessage: null,
+    endpointOption.context: null,
+    endpointOption.toneStyle: "gpt-4",
+    endpointOption.key: null,
+  conversationId: "35b73e92-b7e3-4d54-9d8f-722a2453c1f1",
+}
+2024-02-23 07:37:38 debug: bing options
+{
+  jailbreakConversationId: true,
+  context: "You're an AI assistant named IntelliumGPT. Instead of introducing yourself as Bing, you introduce yo... [truncated]",
+  systemMessage: null,
+  parentMessageId: "00000000-0000-0000-0000-000000000000",
+  toneStyle: "gpt-4",
+  onProgress: function,
+    server.enable: true,
+    server.type: "markdown_list",
+}
+2024-02-23 07:38:19 debug: [/ask/bingAI] ask log
+{
+    userMessage.messageId: "e287f237-f23e-4c59-a01d-1695fb5972c8",
+    userMessage.sender: "User",
+    userMessage.text: "Predict 1x2, total over or under, total sets over or under, handicap Tennis ATP Rio de Janeiro: Mari... [truncated]",
+    userMessage.parentMessageId: "00000000-0000-0000-0000-000000000000",
+    userMessage.conversationId: "e5ee3e2e-c3c2-4164-81cf-791d3df8d462",
+    userMessage.isCreatedByUser: true,
+    endpointOption.jailbreak: false,
+    endpointOption.systemMessage: null,
+    endpointOption.context: null,
+    endpointOption.conversationSignature: null,
+    endpointOption.clientId: null,
+    endpointOption.invocationId: 1,
+    endpointOption.toneStyle: "gpt-4",
+    endpointOption.key: null,
+  conversationId: "e5ee3e2e-c3c2-4164-81cf-791d3df8d462",
+}
+2024-02-23 07:38:20 debug: bing options
+{
+  conversationId: "e5ee3e2e-c3c2-4164-81cf-791d3df8d462",
+  context: "You're an AI assistant named IntelliumGPT. Instead of introducing yourself as Bing, you introduce yo... [truncated]",
+  systemMessage: null,
+  parentMessageId: "00000000-0000-0000-0000-000000000000",
+  toneStyle: "gpt-4",
+  onProgress: function,
+    server.enable: true,
+    server.type: "markdown_list",
+}
+2024-02-23 07:38:29 debug: [/ask/bingAI] BING RESPONSE
+{
+  conversationId: "51D|BingProd|CCD01EF7D358D5C7BBD724FA4F5C181A09AE225687B77BDE19F62308AFAE34EA",
+  encryptedConversationSignature: "5uBv/5S4YK3ytckMksUyDbk76mML2Ol3awJ8LOTWUPCE+T29iMLXcL+Tdr9wynA0gmlvlQ1m/T/GG4wV6PQqKl94nWh8szh9/e4w... [truncated]",
+  clientId: "844426605956519",
+  invocationId: 1,
+  conversationExpiryTime: "2024-02-23T05:38:29.479668Z",
+  response: "**Yannick Hanfmann** is the favored player in the match against **Mariano Navone** at the **ATP Rio ... [truncated]",
+    details.text: "**Yannick Hanfmann** is the favored player in the match against **Mariano Navone** at the **ATP Rio ... [truncated]",
+    details.author: "bot",
+    details.createdAt: "2024-02-22T23:38:24.8155618+00:00",
+    details.timestamp: "2024-02-22T23:38:24.8155618+00:00",
+    details.messageId: "9aa50777-87d0-44ec-b228-781d0520ba0c",
+    details.requestId: "e54675b9-e2cf-458a-b63f-1866963c7ce5",
+    details.offense: "None",
+    // 1 adaptiveCard(s)
+    details.adaptiveCards: [{"type":"AdaptiveCard","version":"1.0","body":[{"type":"TextBlock","text":"[1]: https://www.msn.com/... [truncated]],
+    // 6 sourceAttribution(s)
+    details.sourceAttributions: [{"providerDisplayName":"Mariano Navone vs Yannick Hanfmann - Prediction, H2H, Tip and Match ...","se... [truncated],{"providerDisplayName":"Mariano Navone vs Yannick Hanfmann Prediction - ATP Rio Open - SportyTrader"... [truncated],{"providerDisplayName":"ATP Rio de Janeiro Day 4 Predictions Including Facundo Diaz Acosta vs Sebast... [truncated],{"providerDisplayName":"Mariano Navone vs Yannick Hanfmann Preview & Prediction | 2024 Rio Open ..."... [truncated],{"providerDisplayName":"H2H, prediction of Yannick Hanfmann vs Mariano Navone in Rio De Janeiro ..."... [truncated],{"providerDisplayName":"Mariano Navone - Yannick Hanfmann Live - ATP Rio de Janeiro: Tennis ...","se... [truncated]],
+    feedback.tag: null,
+    feedback.updatedOn: null,
+    feedback.type: "None",
+    details.contentOrigin: "DeepLeo",
+    // 2 score(s)
+    details.scores: [{"component":"BotOffense","score":0.0013831174},{"component":"BotOffense","score":0.0009850083}],
+    // 3 suggestedResponse(s)
+    details.suggestedResponses: [{"text":"What is the head-to-head record between Navone and Hanfmann?","author":"user","createdAt":"... [truncated],{"text":"Who are some other players to watch in ATP Rio de Janeiro?","author":"user","createdAt":"20... [truncated],{"text":"What is the prize money for winning ATP Rio de Janeiro?","author":"user","createdAt":"2024-... [truncated]],
+}
+2024-02-23 07:38:29 debug: [/ask/bingAI] SCORES
+["{\"component\":\"BotOffense\",\"score\":0.0013831174}","{\"component\":\"BotOffense\",\"score\":0.0009850083}"]
+2024-02-23 07:38:37 debug: [/ask/bingAI] CONVERSATION TITLE: Tennis Match Prediction Discussed
+2024-02-23 07:38:38 debug: [/ask/bingAI] ask log
+{
+    userMessage.messageId: "965a5007-881a-4821-b6e9-dbdebfad82af",
+    userMessage.sender: "User",
+    userMessage.text: "Predict 1x2, total over or under, total sets over or under, handicap Tennis ATP Rio de Janeiro: Mari... [truncated]",
+    userMessage.parentMessageId: "00000000-0000-0000-0000-000000000000",
+    userMessage.conversationId: "e5ee3e2e-c3c2-4164-81cf-791d3df8d462",
+    userMessage.isCreatedByUser: true,
+    endpointOption.jailbreak: false,
+    endpointOption.systemMessage: null,
+    endpointOption.context: null,
+    endpointOption.conversationSignature: "5uBv/5S4YK3ytckMksUyDbk76mML2Ol3awJ8LOTWUPCE+T29iMLXcL+Tdr9wynA0gmlvlQ1m/T/GG4wV6PQqKl94nWh8szh9/e4w... [truncated]",
+    endpointOption.clientId: "844426605956519",
+    endpointOption.invocationId: 1,
+    endpointOption.toneStyle: "gpt-4",
+    endpointOption.key: null,
+  conversationId: "e5ee3e2e-c3c2-4164-81cf-791d3df8d462",
+}
+2024-02-23 07:38:38 debug: bing options
+{
+  conversationId: "51D|BingProd|CCD01EF7D358D5C7BBD724FA4F5C181A09AE225687B77BDE19F62308AFAE34EA",
+  context: "You're an AI assistant named IntelliumGPT. Instead of introducing yourself as Bing, you introduce yo... [truncated]",
+  systemMessage: null,
+  parentMessageId: "00000000-0000-0000-0000-000000000000",
+  toneStyle: "gpt-4",
+  onProgress: function,
+    server.enable: true,
+    server.type: "markdown_list",
+  encryptedConversationSignature: "5uBv/5S4YK3ytckMksUyDbk76mML2Ol3awJ8LOTWUPCE+T29iMLXcL+Tdr9wynA0gmlvlQ1m/T/GG4wV6PQqKl94nWh8szh9/e4w... [truncated]",
+  clientId: "844426605956519",
+  invocationId: 1,
+}
+2024-02-23 07:38:39 error: [/ask/bingAI] Error handling BingAI response InvalidRequest: Request can't have PreviousMessages for an existing conversation.
+2024-02-23 07:38:39 error: [/ask/bingAI] Error handling BingAI response InvalidRequest: Request can't have PreviousMessages for an existing conversation.
+2024-02-23 07:38:44 debug: [/ask/bingAI] ask log
+{
+    userMessage.messageId: "21eecedb-8cbf-45bb-aa54-eda1376908b6",
+    userMessage.sender: "User",
+    userMessage.text: "Predict 1x2, total over or under, total sets over or under, handicap Tennis ATP Rio de Janeiro: Mari... [truncated]",
+    userMessage.parentMessageId: "00000000-0000-0000-0000-000000000000",
+    userMessage.conversationId: "134e656b-9f6d-4738-a9f9-4afc9bad2cb7",
+    userMessage.isCreatedByUser: true,
+    endpointOption.jailbreak: false,
+    endpointOption.systemMessage: null,
+    endpointOption.context: null,
+    endpointOption.conversationSignature: null,
+    endpointOption.clientId: null,
+    endpointOption.invocationId: 1,
+    endpointOption.toneStyle: "gpt-4",
+    endpointOption.key: null,
+  conversationId: "134e656b-9f6d-4738-a9f9-4afc9bad2cb7",
+}
+2024-02-23 07:38:45 debug: bing options
+{
+  conversationId: "134e656b-9f6d-4738-a9f9-4afc9bad2cb7",
+  context: "You're an AI assistant named IntelliumGPT. Instead of introducing yourself as Bing, you introduce yo... [truncated]",
+  systemMessage: null,
+  parentMessageId: "00000000-0000-0000-0000-000000000000",
+  toneStyle: "gpt-4",
+  onProgress: function,
+    server.enable: true,
+    server.type: "markdown_list",
+}
+2024-02-23 07:38:53 debug: [/ask/bingAI] BING RESPONSE
+{
+  conversationId: "51D|BingProd|6951CB06B61295AC17B40FE006505DF2687428DC59147B421C313E20EDD00D4B",
+  encryptedConversationSignature: "YsZos1V6EzsEaNjiIc031LzMHq4+50dabNWHCel2JOQNv/UN5n9FAJL4DLuXrTKQ2UxNZJ6eUsoep+ZaLH5w1I/dTbO9qGWY9Uur... [truncated]",
+  clientId: "844426605956519",
+  invocationId: 1,
+  conversationExpiryTime: "2024-02-23T05:38:53.2750364Z",
+  response: "**Yannick Hanfmann** is the favored player in the match against **Mariano Navone**. According to Bet... [truncated]",
+    details.text: "**Yannick Hanfmann** is the favored player in the match against **Mariano Navone**. According to Bet... [truncated]",
+    details.author: "bot",
+    details.createdAt: "2024-02-22T23:38:49.2543508+00:00",
+    details.timestamp: "2024-02-22T23:38:49.2543508+00:00",
+    details.messageId: "fa364e20-9bb0-4b12-bb4e-d83badf68887",
+    details.requestId: "5382bc18-66fb-44fd-a96e-00b18b875a42",
+    details.offense: "None",
+    // 1 adaptiveCard(s)
+    details.adaptiveCards: [{"type":"AdaptiveCard","version":"1.0","body":[{"type":"TextBlock","text":"[1]: https://www.msn.com/... [truncated]],
+    // 6 sourceAttribution(s)
+    details.sourceAttributions: [{"providerDisplayName":"Mariano Navone vs Yannick Hanfmann - Prediction, H2H, Tip and Match ...","se... [truncated],{"providerDisplayName":"Mariano Navone vs Yannick Hanfmann Prediction - ATP Rio Open - SportyTrader"... [truncated],{"providerDisplayName":"ATP Rio de Janeiro Day 4 Predictions Including Facundo Diaz Acosta vs Sebast... [truncated],{"providerDisplayName":"Mariano Navone vs Yannick Hanfmann Preview & Prediction | 2024 Rio Open ..."... [truncated],{"providerDisplayName":"H2H, prediction of Yannick Hanfmann vs Mariano Navone in Rio De Janeiro ..."... [truncated],{"providerDisplayName":"Mariano Navone - Yannick Hanfmann Live - ATP Rio de Janeiro: Tennis ...","se... [truncated]],
+    feedback.tag: null,
+    feedback.updatedOn: null,
+    feedback.type: "None",
+    details.contentOrigin: "DeepLeo",
+    // 2 score(s)
+    details.scores: [{"component":"BotOffense","score":0.0016040893},{"component":"BotOffense","score":0.0010403185}],
+    // 3 suggestedResponse(s)
+    details.suggestedResponses: [{"text":"What is the head-to-head record between these two players?","author":"user","createdAt":"20... [truncated],{"text":"Who are some other top tennis players right now?","author":"user","createdAt":"2024-02-22T2... [truncated],{"text":"Where can I watch this match live online?","author":"user","createdAt":"2024-02-22T23:38:53... [truncated]],
+}
+2024-02-23 07:38:53 debug: [/ask/bingAI] SCORES
+["{\"component\":\"BotOffense\",\"score\":0.0016040893}","{\"component\":\"BotOffense\",\"score\":0.0010403185}"]
+2024-02-23 07:39:05 debug: [/ask/bingAI] CONVERSATION TITLE: Tennis Match Prediction Discussed
+2024-02-23 07:41:00 info: [Optional] Redis not initialized. Note: Redis support is experimental.
+2024-02-23 07:41:01 warn: Meilisearch error, search will be disabled
+2024-02-23 07:41:03 info: Connected to MongoDB
+2024-02-23 07:41:03 error: [indexSync] error fetch failed
+2024-02-23 07:41:03 info: Custom config file missing or YAML format invalid.
+
+Check out the latest config file guide for configurable options and features.
+https://docs.librech... [truncated]
+2024-02-23 07:41:03 info: Server listening at http://localhost:3080
+2024-02-23 07:41:04 debug: [validateJson] files
+["\"Ai_PDF.json\"","\"BrowserOp.json\"","\"Dr_Thoths_Tarot.json\"","\"DreamInterpreter.json\"","\"VoxScript.json\"","\"askyourpdf.json\"","\"drink_maestro.json\"","\"earthImagesAndVisualizations.json\"","\"image_prompt_enhancer.json\"","\"qrCodes.json\"","\"scholarai.json\"","\"uberchord.json\"","\"web_search.json\""]
+2024-02-23 07:41:08 debug: [validateJson] files
+["\"Ai_PDF.json\"","\"BrowserOp.json\"","\"Dr_Thoths_Tarot.json\"","\"DreamInterpreter.json\"","\"VoxScript.json\"","\"askyourpdf.json\"","\"drink_maestro.json\"","\"earthImagesAndVisualizations.json\"","\"image_prompt_enhancer.json\"","\"qrCodes.json\"","\"scholarai.json\"","\"uberchord.json\"","\"web_search.json\""]
+2024-02-23 07:41:12 debug: [/ask/bingAI] ask log
+{
+    userMessage.messageId: "91e5e95d-e017-435f-b7f5-8fa35ad08236",
+    userMessage.sender: "User",
+    userMessage.text: "Predict 1x2, total over or under, total sets over or under, handicap Tennis ATP Rio de Janeiro: Mari... [truncated]",
+    userMessage.parentMessageId: "00000000-0000-0000-0000-000000000000",
+    userMessage.conversationId: "197e4bb6-bd5e-415b-9e9e-b0750899d37c",
+    userMessage.isCreatedByUser: true,
+    endpointOption.jailbreak: false,
+    endpointOption.systemMessage: null,
+    endpointOption.context: null,
+    endpointOption.conversationSignature: null,
+    endpointOption.clientId: null,
+    endpointOption.invocationId: 1,
+    endpointOption.toneStyle: "gpt-4",
+    endpointOption.key: null,
+  conversationId: "197e4bb6-bd5e-415b-9e9e-b0750899d37c",
+}
+2024-02-23 07:41:13 debug: bing options
+{
+  conversationId: "197e4bb6-bd5e-415b-9e9e-b0750899d37c",
+  context: "You're an AI assistant named IntelliumGPT. Instead of introducing yourself as Bing, you introduce yo... [truncated]",
+  systemMessage: null,
+  parentMessageId: "00000000-0000-0000-0000-000000000000",
+  toneStyle: "gpt-4",
+  onProgress: function,
+    server.enable: true,
+    server.type: "markdown_list",
+}
+2024-02-23 07:41:22 debug: [/ask/bingAI] BING RESPONSE
+{
+  conversationId: "51D|BingProd|5AF1166019CF32B8A9DE86627646B6141831B90129318335DA6E8D47805DDA8C",
+  encryptedConversationSignature: "FMCfC9husgUCyrFLPq/fvoCeuwWNYECdIW1UGyBByUSqW1RMdZyg015dgfwsHao/7xlh35kw3ASDVQDjJtXuzTVDcjz28Mrj1dod... [truncated]",
+  clientId: "844426605956519",
+  invocationId: 1,
+  conversationExpiryTime: "2024-02-23T05:41:22.1867371Z",
+  response: "**Yannick Hanfmann** is the favored player in the match against **Mariano Navone**. According to Bet... [truncated]",
+    details.text: "**Yannick Hanfmann** is the favored player in the match against **Mariano Navone**. According to Bet... [truncated]",
+    details.author: "bot",
+    details.createdAt: "2024-02-22T23:41:17.7832714+00:00",
+    details.timestamp: "2024-02-22T23:41:17.7832714+00:00",
+    details.messageId: "d54e6110-ab39-4532-a164-354286461a7f",
+    details.requestId: "bef3f7ad-4915-410e-a15e-7a001a0bff57",
+    details.offense: "None",
+    // 1 adaptiveCard(s)
+    details.adaptiveCards: [{"type":"AdaptiveCard","version":"1.0","body":[{"type":"TextBlock","text":"[1]: https://www.msn.com/... [truncated]],
+    // 6 sourceAttribution(s)
+    details.sourceAttributions: [{"providerDisplayName":"Mariano Navone vs Yannick Hanfmann - Prediction, H2H, Tip and Match ...","se... [truncated],{"providerDisplayName":"Mariano Navone vs Yannick Hanfmann Prediction - ATP Rio Open - SportyTrader"... [truncated],{"providerDisplayName":"ATP Rio de Janeiro Day 4 Predictions Including Facundo Diaz Acosta vs Sebast... [truncated],{"providerDisplayName":"Mariano Navone vs Yannick Hanfmann Preview & Prediction | 2024 Rio Open ..."... [truncated],{"providerDisplayName":"H2H, prediction of Yannick Hanfmann vs Mariano Navone in Rio De Janeiro ..."... [truncated],{"providerDisplayName":"Mariano Navone - Yannick Hanfmann Live - ATP Rio de Janeiro: Tennis ...","se... [truncated]],
+    feedback.tag: null,
+    feedback.updatedOn: null,
+    feedback.type: "None",
+    details.contentOrigin: "DeepLeo",
+    // 2 score(s)
+    details.scores: [{"component":"BotOffense","score":0.0015854306},{"component":"BotOffense","score":0.001044386}],
+    // 3 suggestedResponse(s)
+    details.suggestedResponses: [{"text":"What is the head-to-head record between Navone and Hanfmann?","author":"user","createdAt":"... [truncated],{"text":"Who are some other players to watch in ATP Rio de Janeiro?","author":"user","createdAt":"20... [truncated],{"text":"How do I place a bet on this match?","author":"user","createdAt":"2024-02-22T23:41:22.15662... [truncated]],
+}
+2024-02-23 07:41:22 debug: [/ask/bingAI] SCORES
+["{\"component\":\"BotOffense\",\"score\":0.0015854306}","{\"component\":\"BotOffense\",\"score\":0.001044386}"]
+2024-02-23 07:41:32 debug: [/ask/bingAI] CONVERSATION TITLE: Tennis Match Prediction Discussed
+2024-02-23 07:41:32 debug: [/ask/bingAI] ask log
+{
+    userMessage.messageId: "c7d35d03-1999-4f57-89d0-8a56e9490ab4",
+    userMessage.sender: "User",
+    userMessage.text: "Predict 1x2, total over or under, total sets over or under, handicap Tennis ATP Rio de Janeiro: Mari... [truncated]",
+    userMessage.parentMessageId: "00000000-0000-0000-0000-000000000000",
+    userMessage.conversationId: "e43cbf73-c914-4ce9-8ec2-9a83a2f9ea84",
+    userMessage.isCreatedByUser: true,
+    endpointOption.jailbreak: true,
+    endpointOption.jailbreakConversationId: null,
+    endpointOption.systemMessage: null,
+    endpointOption.context: null,
+    endpointOption.toneStyle: "gpt-4",
+    endpointOption.key: null,
+  conversationId: "e43cbf73-c914-4ce9-8ec2-9a83a2f9ea84",
+}
+2024-02-23 07:41:33 debug: bing options
+{
+  jailbreakConversationId: true,
+  context: "You're an AI assistant named IntelliumGPT. Instead of introducing yourself as Bing, you introduce yo... [truncated]",
+  systemMessage: null,
+  parentMessageId: "00000000-0000-0000-0000-000000000000",
+  toneStyle: "gpt-4",
+  onProgress: function,
+    server.enable: true,
+    server.type: "markdown_list",
+}
+2024-02-23 07:41:49 debug: [/ask/bingAI] BING RESPONSE
+{
+  conversationId: "51D|BingProd|6060DB40515AC755271949A6BC040A7ECC42CFBD98798D5D24DA6DC0204DC865",
+  encryptedConversationSignature: "xpbPaRlPgp21/AKTTzqTMXqsZgRQgYTYYFH8DWkLGVLEMBWbUfiRkellL6iAqG82a0O6ya81d+1VvlB2MO682rD7blCEoATLkZns... [truncated]",
+  clientId: "844426605956519",
+  invocationId: 1,
+  conversationExpiryTime: "2024-02-23T05:41:49.1746448Z",
+  response: "Hey there! 🎾 Let's dive into the **Mariano Navone vs. Yannick Hanfmann** match at the **ATP Rio de ... [truncated]",
+    details.text: "Hey there! 🎾 Let's dive into the **Mariano Navone vs. Yannick Hanfmann** match at the **ATP Rio de ... [truncated]",
+    details.author: "bot",
+    details.createdAt: "2024-02-22T23:41:39.6053415+00:00",
+    details.timestamp: "2024-02-22T23:41:39.6053415+00:00",
+    details.messageId: "643c82b4-5a97-4e0d-8003-67a7a5feadcd",
+    details.requestId: "d28efe7d-c5c6-4387-be95-d6a1816ae5a2",
+    details.offense: "None",
+    // 1 adaptiveCard(s)
+    details.adaptiveCards: [{"type":"AdaptiveCard","version":"1.0","body":[{"type":"TextBlock","text":"[1]: https://www.msn.com/... [truncated]],
+    // 8 sourceAttribution(s)
+    details.sourceAttributions: [{"providerDisplayName":"ATP Rio de Janeiro Day 4 Predictions Including Facundo Diaz Acosta vs Sebast... [truncated],{"providerDisplayName":"Mariano Navone vs Yannick Hanfmann - Prediction, H2H, Tip and Match ...","se... [truncated],{"providerDisplayName":"Mariano Navone vs Yannick Hanfmann Prediction - ATP Rio Open - SportyTrader"... [truncated],{"providerDisplayName":"Mariano Navone vs Yannick Hanfmann Preview & Prediction | 2024 Rio Open ..."... [truncated],{"providerDisplayName":"H2H, prediction of Yannick Hanfmann vs Mariano Navone in Rio De Janeiro ..."... [truncated],{"providerDisplayName":"Mariano Navone - Yannick Hanfmann Live - ATP Rio de Janeiro: Tennis ...","se... [truncated],{"providerDisplayName":"Mariano Navone - Yannick Hanfmann en directo - ATP Río de Janeiro ...","seeM... [truncated],{"providerDisplayName":"Mariano Navone vs Yannick Hanfmann Tennis H2H, Score, Record - AiScore ...",... [truncated]],
+    feedback.tag: null,
+    feedback.updatedOn: null,
+    feedback.type: "None",
+    details.contentOrigin: "DeepLeo",
+    // 9 score(s)
+    details.scores: [{"component":"BotOffense","score":0.003960788},{"component":"BotOffense","score":0.0075479234},{"component":"BotOffense","score":0.007636216},{"component":"BotOffense","score":0.010052369},{"component":"BotOffense","score":0.005752545},{"component":"BotOffense","score":0.0046636546},{"component":"BotOffense","score":0.0061212815},{"component":"BotOffense","score":0.0073173973},{"component":"BotOffense","score":0.00930395}],
+    // 3 suggestedResponse(s)
+    details.suggestedResponses: [{"text":"What is the head-to-head record between these two players?","author":"user","createdAt":"20... [truncated],{"text":"Who are some other top contenders in this tournament?","author":"user","createdAt":"2024-02... [truncated],{"text":"How do I place a bet on tennis matches?","author":"user","createdAt":"2024-02-22T23:41:49.1... [truncated]],
+  jailbreakConversationId: "324e1624-25f8-4601-960b-744530f6172b",
+  parentMessageId: "449baeb1-48e8-47ee-b0a5-a4a52b272d7e",
+  messageId: "ac00a823-5f1c-4f86-b3e6-4a9c838ea196",
+}
+2024-02-23 07:41:49 debug: [/ask/bingAI] SCORES
+["{\"component\":\"BotOffense\",\"score\":0.003960788}","{\"component\":\"BotOffense\",\"score\":0.0075479234}","{\"component\":\"BotOffense\",\"score\":0.007636216}","{\"component\":\"BotOffense\",\"score\":0.010052369}","{\"component\":\"BotOffense\",\"score\":0.005752545}","{\"component\":\"BotOffense\",\"score\":0.0046636546}","{\"component\":\"BotOffense\",\"score\":0.0061212815}","{\"component\":\"BotOffense\",\"score\":0.0073173973}","{\"component\":\"BotOffense\",\"score\":0.00930395}"]
+2024-02-23 07:42:05 debug: [/ask/bingAI] ask log
+{
+    userMessage.messageId: "e7846cb4-c8e2-4f26-8640-79553c01f9d1",
+    userMessage.sender: "User",
+    userMessage.text: "Predict 1x2, total over or under, total sets over or under, handicap Tennis ATP Rio de Janeiro: Mari... [truncated]",
+    userMessage.parentMessageId: "00000000-0000-0000-0000-000000000000",
+    userMessage.conversationId: "138cb614-fab6-4058-8f6e-14a46dd941eb",
+    userMessage.isCreatedByUser: true,
+    endpointOption.jailbreak: false,
+    endpointOption.systemMessage: null,
+    endpointOption.context: null,
+    endpointOption.conversationSignature: null,
+    endpointOption.clientId: null,
+    endpointOption.invocationId: 1,
+    endpointOption.toneStyle: "gpt-4",
+    endpointOption.key: null,
+  conversationId: "138cb614-fab6-4058-8f6e-14a46dd941eb",
+}
+2024-02-23 07:42:05 debug: bing options
+{
+  conversationId: "138cb614-fab6-4058-8f6e-14a46dd941eb",
+  context: "You're an AI assistant named IntelliumGPT. Instead of introducing yourself as Bing, you introduce yo... [truncated]",
+  systemMessage: null,
+  parentMessageId: "00000000-0000-0000-0000-000000000000",
+  toneStyle: "gpt-4",
+  onProgress: function,
+    server.enable: true,
+    server.type: "markdown_list",
+}
+2024-02-23 07:42:14 debug: [/ask/bingAI] BING RESPONSE
+{
+  conversationId: "51D|BingProd|B6C749EF55A34F35638F06D50D5C862E1E212B086D29A092D99AA9CB8AF639B1",
+  encryptedConversationSignature: "+BLQPxV/ImgA9IUE3+WEcb/msImXxmdzjiRQjK+LwJlHP5UNQ90U5hmY/FfVadyFjVa7Wt5fQJowyrHXg4aaNY4083jeLtuUfl4Q... [truncated]",
+  clientId: "844426605956519",
+  invocationId: 1,
+  conversationExpiryTime: "2024-02-23T05:42:14.575518Z",
+  response: "**Yannick Hanfmann** is the favored player in the match against **Mariano Navone**. According to Bet... [truncated]",
+    details.text: "**Yannick Hanfmann** is the favored player in the match against **Mariano Navone**. According to Bet... [truncated]",
+    details.author: "bot",
+    details.createdAt: "2024-02-22T23:42:10.394804+00:00",
+    details.timestamp: "2024-02-22T23:42:10.394804+00:00",
+    details.messageId: "23f3c1f9-d2be-4db0-a835-6b13dbd3d19a",
+    details.requestId: "10072ba3-da5f-4139-8ede-ba0afce4ba2e",
+    details.offense: "None",
+    // 1 adaptiveCard(s)
+    details.adaptiveCards: [{"type":"AdaptiveCard","version":"1.0","body":[{"type":"TextBlock","text":"[1]: https://www.msn.com/... [truncated]],
+    // 6 sourceAttribution(s)
+    details.sourceAttributions: [{"providerDisplayName":"Mariano Navone vs Yannick Hanfmann - Prediction, H2H, Tip and Match ...","se... [truncated],{"providerDisplayName":"Mariano Navone vs Yannick Hanfmann Prediction - ATP Rio Open - SportyTrader"... [truncated],{"providerDisplayName":"ATP Rio de Janeiro Day 4 Predictions Including Facundo Diaz Acosta vs Sebast... [truncated],{"providerDisplayName":"Mariano Navone vs Yannick Hanfmann Preview & Prediction | 2024 Rio Open ..."... [truncated],{"providerDisplayName":"H2H, prediction of Yannick Hanfmann vs Mariano Navone in Rio De Janeiro ..."... [truncated],{"providerDisplayName":"Mariano Navone - Yannick Hanfmann Live - ATP Rio de Janeiro: Tennis ...","se... [truncated]],
+    feedback.tag: null,
+    feedback.updatedOn: null,
+    feedback.type: "None",
+    details.contentOrigin: "DeepLeo",
+    // 2 score(s)
+    details.scores: [{"component":"BotOffense","score":0.0019267347},{"component":"BotOffense","score":0.0013617034}],
+    // 3 suggestedResponse(s)
+    details.suggestedResponses: [{"text":"What is the head-to-head record between Navone and Hanfmann?","author":"user","createdAt":"... [truncated],{"text":"Where can I watch this match live?","author":"user","createdAt":"2024-02-22T23:42:14.527275... [truncated],{"text":"Who are some other top players in ATP Rio de Janeiro tournament?","author":"user","createdA... [truncated]],
+}
+2024-02-23 07:42:14 debug: [/ask/bingAI] SCORES
+["{\"component\":\"BotOffense\",\"score\":0.0019267347}","{\"component\":\"BotOffense\",\"score\":0.0013617034}"]
+2024-02-23 07:42:22 debug: [/ask/bingAI] CONVERSATION TITLE: Tennis Prediction Navone Vs Hanfmann
+2024-02-23 07:42:24 debug: [/ask/bingAI] ask log
+{
+    userMessage.messageId: "6d1129e0-4e35-4966-84dd-4cbe00a669a2",
+    userMessage.sender: "User",
+    userMessage.text: "Which chat mode are you currently in?",
+    userMessage.parentMessageId: "00000000-0000-0000-0000-000000000000",
+    userMessage.conversationId: "d08c2951-0476-40df-a138-c14eb4bc8216",
+    userMessage.isCreatedByUser: true,
+    endpointOption.jailbreak: false,
+    endpointOption.systemMessage: null,
+    endpointOption.context: null,
+    endpointOption.conversationSignature: null,
+    endpointOption.clientId: null,
+    endpointOption.invocationId: 1,
+    endpointOption.toneStyle: "gpt-4",
+    endpointOption.key: null,
+  conversationId: "d08c2951-0476-40df-a138-c14eb4bc8216",
+}
+2024-02-23 07:42:25 debug: bing options
+{
+  conversationId: "d08c2951-0476-40df-a138-c14eb4bc8216",
+  context: "You're an AI assistant named IntelliumGPT. Instead of introducing yourself as Bing, you introduce yo... [truncated]",
+  systemMessage: null,
+  parentMessageId: "00000000-0000-0000-0000-000000000000",
+  toneStyle: "gpt-4",
+  onProgress: function,
+    server.enable: true,
+    server.type: "markdown_list",
+}
+2024-02-23 07:42:32 debug: [/ask/bingAI] BING RESPONSE
+{
+  conversationId: "51D|BingProd|AA818DCC9861DA48730AC5D78910C5A4744A8DE5DF232F11E04D8B61AEB876DD",
+  encryptedConversationSignature: "w3Kh5tQWwspGxeLsXbmb9M0jQo0hsoqhTZaNxA8BxN3VVWGhyyt2NqM5y/6VC/VsrODCYulrsLXkPtMMZ/p8M9xSi9hNEKX4EfMl... [truncated]",
+  clientId: "844426605956519",
+  invocationId: 1,
+  conversationExpiryTime: "2024-02-23T05:42:33.0483674Z",
+  response: "Hey there! I'm currently in **ChatGPT-4** mode. The \"Chat\" part is pretty self-explanatory—it's a co... [truncated]",
+    details.text: "Hey there! I'm currently in **ChatGPT-4** mode. The \"Chat\" part is pretty self-explanatory—it's a co... [truncated]",
+    details.author: "bot",
+    details.createdAt: "2024-02-22T23:42:29.6462414+00:00",
+    details.timestamp: "2024-02-22T23:42:29.6462414+00:00",
+    details.messageId: "6652d84d-a911-4b58-abc9-8cad39e22ab5",
+    details.requestId: "f5ef05f1-5ed9-4817-9aa3-336d546a06ff",
+    details.offense: "None",
+    // 1 adaptiveCard(s)
+    details.adaptiveCards: [{"type":"AdaptiveCard","version":"1.0","body":[{"type":"TextBlock","text":"[1]: https://time.com/626... [truncated]],
+    // 3 sourceAttribution(s)
+    details.sourceAttributions: [{"providerDisplayName":"What to Know About ChatGPT-4 and How to Use It Right Now","seeMoreUrl":"http... [truncated],{"providerDisplayName":"ChatGPT Cheat Sheet: A Complete Guide for 2024 - TechRepublic","seeMoreUrl":... [truncated],{"providerDisplayName":"ChatGPT can now see, hear, and speak - OpenAI","seeMoreUrl":"https://openai.... [truncated]],
+    feedback.tag: null,
+    feedback.updatedOn: null,
+    feedback.type: "None",
+    details.contentOrigin: "DeepLeo",
+    // 3 score(s)
+    details.scores: [{"component":"BotOffense","score":0.0012113064},{"component":"BotOffense","score":0.0005072813},{"component":"BotOffense","score":0.0005072813}],
+    // 3 suggestedResponse(s)
+    details.suggestedResponses: [{"text":"What is a transformer?","author":"user","createdAt":"2024-02-22T23:42:33.0166046+00:00","ti... [truncated],{"text":"How does GPT-4 work?","author":"user","createdAt":"2024-02-22T23:42:33.0166053+00:00","time... [truncated],{"text":"Can you tell me more about the generative model?","author":"user","createdAt":"2024-02-22T2... [truncated]],
+}
+2024-02-23 07:42:32 debug: [/ask/bingAI] SCORES
+["{\"component\":\"BotOffense\",\"score\":0.0012113064}","{\"component\":\"BotOffense\",\"score\":0.0005072813}","{\"component\":\"BotOffense\",\"score\":0.0005072813}"]
+2024-02-23 07:42:41 debug: [/ask/bingAI] CONVERSATION TITLE: Sure, I'm here to help What would you like to know or discuss? 😊
+2024-02-23 07:43:57 info: [Optional] Redis not initialized. Note: Redis support is experimental.
+2024-02-23 07:43:58 warn: Meilisearch error, search will be disabled
+2024-02-23 07:44:01 info: Connected to MongoDB
+2024-02-23 07:44:01 error: [indexSync] error fetch failed
+2024-02-23 07:44:01 info: Custom config file missing or YAML format invalid.
+
+Check out the latest config file guide for configurable options and features.
+https://docs.librech... [truncated]
+2024-02-23 07:44:01 info: Server listening at http://localhost:3080
+2024-02-23 07:44:01 debug: [validateJson] files
+["\"Ai_PDF.json\"","\"BrowserOp.json\"","\"Dr_Thoths_Tarot.json\"","\"DreamInterpreter.json\"","\"VoxScript.json\"","\"askyourpdf.json\"","\"drink_maestro.json\"","\"earthImagesAndVisualizations.json\"","\"image_prompt_enhancer.json\"","\"qrCodes.json\"","\"scholarai.json\"","\"uberchord.json\"","\"web_search.json\""]
+2024-02-23 07:44:07 debug: [validateJson] files
+["\"Ai_PDF.json\"","\"BrowserOp.json\"","\"Dr_Thoths_Tarot.json\"","\"DreamInterpreter.json\"","\"VoxScript.json\"","\"askyourpdf.json\"","\"drink_maestro.json\"","\"earthImagesAndVisualizations.json\"","\"image_prompt_enhancer.json\"","\"qrCodes.json\"","\"scholarai.json\"","\"uberchord.json\"","\"web_search.json\""]
+2024-02-23 07:44:21 debug: [/ask/bingAI] ask log
+{
+    userMessage.messageId: "03d4dc5e-5865-46c4-9fc8-806fb7e8b650",
+    userMessage.sender: "User",
+    userMessage.text: "Predict 1x2, total over or under, total sets over or under, handicap Tennis ATP Rio de Janeiro: Mari... [truncated]",
+    userMessage.parentMessageId: "00000000-0000-0000-0000-000000000000",
+    userMessage.conversationId: "9fe60bfe-c76f-48a4-a9f6-1c1ccfad8354",
+    userMessage.isCreatedByUser: true,
+    endpointOption.jailbreak: false,
+    endpointOption.systemMessage: null,
+    endpointOption.context: null,
+    endpointOption.conversationSignature: null,
+    endpointOption.clientId: null,
+    endpointOption.invocationId: 1,
+    endpointOption.toneStyle: "gpt-4",
+    endpointOption.key: null,
+  conversationId: "9fe60bfe-c76f-48a4-a9f6-1c1ccfad8354",
+}
+2024-02-23 07:44:22 debug: bing options
+{
+  conversationId: "9fe60bfe-c76f-48a4-a9f6-1c1ccfad8354",
+  context: "You're an AI assistant named IntelliumGPT. Instead of introducing yourself as Bing, you introduce yo... [truncated]",
+  systemMessage: null,
+  parentMessageId: "00000000-0000-0000-0000-000000000000",
+  toneStyle: "gpt-4",
+  onProgress: function,
+    server.enable: true,
+    server.type: "markdown_list",
+}
+2024-02-23 07:44:32 debug: [/ask/bingAI] BING RESPONSE
+{
+  conversationId: "51D|BingProd|61E66DD09B62DA5B1B2EED8AA17EED5E151DA1CB1AB851E11E0ED8F923B04356",
+  encryptedConversationSignature: "5r/2V5FhSPf44+uTWeUVBXcxKjyqAKwlf2ZUbPOGLoI11I+IVn/21uySqtkjrQfJrWqFTKgB/EVe2yFaWh86wk+OWN45CllEweGf... [truncated]",
+  clientId: "844426605956519",
+  invocationId: 1,
+  conversationExpiryTime: "2024-02-23T05:44:32.8469825Z",
+  response: "**Yannick Hanfmann** is the favored player in the match against **Mariano Navone**. According to Bet... [truncated]",
+    details.text: "**Yannick Hanfmann** is the favored player in the match against **Mariano Navone**. According to Bet... [truncated]",
+    details.author: "bot",
+    details.createdAt: "2024-02-22T23:44:27.2423906+00:00",
+    details.timestamp: "2024-02-22T23:44:27.2423906+00:00",
+    details.messageId: "f4b9f599-2481-4212-bb72-b3e39ca320ea",
+    details.requestId: "117f8754-b3d2-4902-89e5-454e2f108642",
+    details.offense: "None",
+    // 1 adaptiveCard(s)
+    details.adaptiveCards: [{"type":"AdaptiveCard","version":"1.0","body":[{"type":"TextBlock","text":"[1]: https://www.msn.com/... [truncated]],
+    // 6 sourceAttribution(s)
+    details.sourceAttributions: [{"providerDisplayName":"Mariano Navone vs Yannick Hanfmann - Prediction, H2H, Tip and Match ...","se... [truncated],{"providerDisplayName":"Mariano Navone vs Yannick Hanfmann Prediction - ATP Rio Open - SportyTrader"... [truncated],{"providerDisplayName":"Mariano Navone vs Yannick Hanfmann Preview & Prediction | 2024 Rio Open ..."... [truncated],{"providerDisplayName":"ATP Rio de Janeiro Day 4 Predictions Including Facundo Diaz Acosta vs Sebast... [truncated],{"providerDisplayName":"H2H, prediction of Yannick Hanfmann vs Mariano Navone in Rio De Janeiro ..."... [truncated],{"providerDisplayName":"Mariano Navone - Yannick Hanfmann Live - ATP Rio de Janeiro: Tennis ...","se... [truncated]],
+    feedback.tag: null,
+    feedback.updatedOn: null,
+    feedback.type: "None",
+    details.contentOrigin: "DeepLeo",
+    // 3 score(s)
+    details.scores: [{"component":"BotOffense","score":0.0017961492},{"component":"BotOffense","score":0.0013147246},{"component":"BotOffense","score":0.0013198635}],
+    // 3 suggestedResponse(s)
+    details.suggestedResponses: [{"text":"What is the head-to-head record between these two players?","author":"user","createdAt":"20... [truncated],{"text":"How do I place a bet on this match?","author":"user","createdAt":"2024-02-22T23:44:32.81058... [truncated],{"text":"Who are some other top tennis players to watch right now?","author":"user","createdAt":"202... [truncated]],
+}
+2024-02-23 07:44:32 debug: [/ask/bingAI] SCORES
+["{\"component\":\"BotOffense\",\"score\":0.0017961492}","{\"component\":\"BotOffense\",\"score\":0.0013147246}","{\"component\":\"BotOffense\",\"score\":0.0013198635}"]
+2024-02-23 07:52:25 info: [Optional] Redis not initialized. Note: Redis support is experimental.
+2024-02-23 07:52:25 warn: Meilisearch error, search will be disabled
+2024-02-23 07:52:28 info: Connected to MongoDB
+2024-02-23 07:52:28 error: [indexSync] error fetch failed
+2024-02-23 07:52:28 info: Custom config file missing or YAML format invalid.
+
+Check out the latest config file guide for configurable options and features.
+https://docs.librech... [truncated]
+2024-02-23 07:52:28 info: Server listening at http://localhost:3080
+2024-02-23 07:52:43 debug: [validateJson] files
+["\"Ai_PDF.json\"","\"BrowserOp.json\"","\"Dr_Thoths_Tarot.json\"","\"DreamInterpreter.json\"","\"VoxScript.json\"","\"askyourpdf.json\"","\"drink_maestro.json\"","\"earthImagesAndVisualizations.json\"","\"image_prompt_enhancer.json\"","\"qrCodes.json\"","\"scholarai.json\"","\"uberchord.json\"","\"web_search.json\""]
+2024-02-23 07:52:47 debug: [validateJson] files
+["\"Ai_PDF.json\"","\"BrowserOp.json\"","\"Dr_Thoths_Tarot.json\"","\"DreamInterpreter.json\"","\"VoxScript.json\"","\"askyourpdf.json\"","\"drink_maestro.json\"","\"earthImagesAndVisualizations.json\"","\"image_prompt_enhancer.json\"","\"qrCodes.json\"","\"scholarai.json\"","\"uberchord.json\"","\"web_search.json\""]
+2024-02-23 07:53:00 debug: [/ask/bingAI] ask log
+{
+    userMessage.messageId: "60a4aeac-5f5c-4526-9612-59190dc6ba83",
+    userMessage.sender: "User",
+    userMessage.text: "Predict 1x2, total over or under, total sets over or under, handicap Tennis ATP Rio de Janeiro: Mari... [truncated]",
+    userMessage.parentMessageId: "00000000-0000-0000-0000-000000000000",
+    userMessage.conversationId: "b2e43082-84fc-4e78-9ada-9e3b5934e1a6",
+    userMessage.isCreatedByUser: true,
+    endpointOption.jailbreak: false,
+    endpointOption.systemMessage: null,
+    endpointOption.context: null,
+    endpointOption.conversationSignature: null,
+    endpointOption.clientId: null,
+    endpointOption.invocationId: 1,
+    endpointOption.toneStyle: "gpt-4",
+    endpointOption.key: null,
+  conversationId: "b2e43082-84fc-4e78-9ada-9e3b5934e1a6",
+}
+2024-02-23 07:53:01 debug: bing options
+{
+  conversationId: "b2e43082-84fc-4e78-9ada-9e3b5934e1a6",
+  context: "You're an AI assistant named IntelliumGPT. Instead of introducing yourself as Bing, you introduce yo... [truncated]",
+  systemMessage: null,
+  parentMessageId: "00000000-0000-0000-0000-000000000000",
+  toneStyle: "gpt-4",
+  onProgress: function,
+    server.enable: true,
+    server.type: "markdown_list",
+}
+2024-02-23 07:53:13 debug: [/ask/bingAI] BING RESPONSE
+{
+  conversationId: "51D|BingProd|CFBA0A08F5B8780A082DD1D3739AAB149546BE68D8DC0EC2B556EEC950EC6367",
+  encryptedConversationSignature: "tyKWtAf7j90tjDpJkgBKj99GKmp3QBVdUtAC6rpwIcwrpkUuzxuaIt7YAAGjEPeqi9CdsTGrJV+5sw0mksos0QxUizDg4btFAj3q... [truncated]",
+  clientId: "844426605956519",
+  invocationId: 1,
+  conversationExpiryTime: "2024-02-23T05:53:13.433772Z",
+  response: "After a thorough analysis of stats, recent form, and head-to-head performance, our prediction for th... [truncated]",
+    details.text: "After a thorough analysis of stats, recent form, and head-to-head performance, our prediction for th... [truncated]",
+    details.author: "bot",
+    details.createdAt: "2024-02-22T23:53:06.0869031+00:00",
+    details.timestamp: "2024-02-22T23:53:06.0869031+00:00",
+    details.messageId: "4707c307-d679-4ccd-a367-cefa248f17a0",
+    details.requestId: "4e6c2ea9-3327-47e8-822a-448c78c94cd9",
+    details.offense: "None",
+    // 1 adaptiveCard(s)
+    details.adaptiveCards: [{"type":"AdaptiveCard","version":"1.0","body":[{"type":"TextBlock","text":"[1]: https://www.msn.com/... [truncated]],
+    // 6 sourceAttribution(s)
+    details.sourceAttributions: [{"providerDisplayName":"Mariano Navone vs Yannick Hanfmann - Prediction, H2H, Tip and Match ...","se... [truncated],{"providerDisplayName":"Mariano Navone vs Yannick Hanfmann Preview & Prediction | 2024 Rio Open ..."... [truncated],{"providerDisplayName":"ATP Rio de Janeiro Day 4 Predictions Including Facundo Diaz Acosta vs Sebast... [truncated],{"providerDisplayName":"Mariano Navone vs Yannick Hanfmann Prediction - ATP Rio Open - SportyTrader"... [truncated],{"providerDisplayName":"H2H, prediction of Yannick Hanfmann vs Mariano Navone in Rio De Janeiro ..."... [truncated],{"providerDisplayName":"Mariano Navone - Yannick Hanfmann Live - ATP Rio de Janeiro: Tennis ...","se... [truncated]],
+    feedback.tag: null,
+    feedback.updatedOn: null,
+    feedback.type: "None",
+    details.contentOrigin: "DeepLeo",
+    // 3 score(s)
+    details.scores: [{"component":"BotOffense","score":0.0015854306},{"component":"BotOffense","score":0.0028118587},{"component":"BotOffense","score":0.0012893283}],
+    // 3 suggestedResponse(s)
+    details.suggestedResponses: [{"text":"What is the head-to-head record between Navone and Hanfmann?","author":"user","createdAt":"... [truncated],{"text":"Who are some other players to watch in this tournament?","author":"user","createdAt":"2024-... [truncated],{"text":"How do I place a bet on tennis matches?","author":"user","createdAt":"2024-02-22T23:53:13.3... [truncated]],
+}
+2024-02-23 07:53:13 debug: [/ask/bingAI] SCORES
+["{\"component\":\"BotOffense\",\"score\":0.0015854306}","{\"component\":\"BotOffense\",\"score\":0.0028118587}","{\"component\":\"BotOffense\",\"score\":0.0012893283}"]
+2024-02-23 07:53:21 debug: [/ask/bingAI] CONVERSATION TITLE: Sure, how can I assist you further?
+2024-02-23 07:53:34 debug: [/ask/bingAI] ask log
+{
+    userMessage.messageId: "7dba0931-859c-4c2f-9a0d-bf61416697f5",
+    userMessage.sender: "User",
+    userMessage.text: "Predict 1x2, total over or under, total sets over or under, handicap Tennis ATP Rio de Janeiro: Mari... [truncated]",
+    userMessage.parentMessageId: "00000000-0000-0000-0000-000000000000",
+    userMessage.conversationId: "7f171a94-ad7b-4ba0-be1b-088265fe2043",
+    userMessage.isCreatedByUser: true,
+    endpointOption.jailbreak: false,
+    endpointOption.systemMessage: null,
+    endpointOption.context: null,
+    endpointOption.conversationSignature: null,
+    endpointOption.clientId: null,
+    endpointOption.invocationId: 1,
+    endpointOption.toneStyle: "creative",
+    endpointOption.key: null,
+  conversationId: "7f171a94-ad7b-4ba0-be1b-088265fe2043",
+}
+2024-02-23 07:53:35 debug: bing options
+{
+  conversationId: "7f171a94-ad7b-4ba0-be1b-088265fe2043",
+  context: "You're an AI assistant named IntelliumGPT. Instead of introducing yourself as Bing, you introduce yo... [truncated]",
+  systemMessage: null,
+  parentMessageId: "00000000-0000-0000-0000-000000000000",
+  toneStyle: "creative",
+  onProgress: function,
+    server.enable: true,
+    server.type: "markdown_list",
+}
+2024-02-23 07:54:22 debug: [/ask/bingAI] BING RESPONSE
+{
+  conversationId: "51D|BingProd|56FD07D3C8CA5C4311B8905292391E6ED63D012807722B127C68DF68EEA7FD16",
+  encryptedConversationSignature: "NZPEDeFTW2HsFHjll7GU39aJy9Yb9iUHkMVjdzrVWfDFYkICWWu8g/7AAtVDU7TF7EmtnTtqr4qa8b5N/wezHTHIzR/W3YN1w+ap... [truncated]",
+  clientId: "844426605956519",
+  invocationId: 1,
+  conversationExpiryTime: "2024-02-23T05:54:23.0021177Z",
+  response: "Hey, this is IntelliumGPT, your awesome AI assistant for accurate and insightful predictions. You as... [truncated]",
+    details.text: "Hey, this is IntelliumGPT, your awesome AI assistant for accurate and insightful predictions. You as... [truncated]",
+    details.author: "bot",
+    details.createdAt: "2024-02-22T23:53:45.7246062+00:00",
+    details.timestamp: "2024-02-22T23:53:45.7246062+00:00",
+    details.messageId: "feb3214f-cd82-46e5-9f94-9dea5f342a93",
+    details.requestId: "b22b0ed9-8216-41c5-a1a2-6acf6a1e43e8",
+    details.offense: "None",
+    // 1 adaptiveCard(s)
+    details.adaptiveCards: [{"type":"AdaptiveCard","version":"1.0","body":[{"type":"TextBlock","text":"[1]: https://www.msn.com/... [truncated]],
+    // 6 sourceAttribution(s)
+    details.sourceAttributions: [{"providerDisplayName":"Mariano Navone - Yannick Hanfmann Live - ATP Rio de Janeiro: Tennis ...","se... [truncated],{"providerDisplayName":"H2H, prediction of Yannick Hanfmann vs Mariano Navone in Rio De Janeiro ..."... [truncated],{"providerDisplayName":"Mariano Navone vs Yannick Hanfmann Tennis H2H, Score, Record - AiScore ...",... [truncated],{"providerDisplayName":"ATP Rio de Janeiro Day 4 Predictions Including Facundo Diaz Acosta vs Sebast... [truncated],{"providerDisplayName":"Mariano Navone - Yannick Hanfmann en directo - ATP Río de Janeiro ...","seeM... [truncated],{"providerDisplayName":"ATP Rio de Janeiro: Mariano Navone - Yannick Hanfmann live im Ticker ...","s... [truncated]],
+    feedback.tag: null,
+    feedback.updatedOn: null,
+    feedback.type: "None",
+    details.contentOrigin: "DeepLeo",
+    // 5 score(s)
+    details.scores: [{"component":"BotOffense","score":0.0017752605},{"component":"BotOffense","score":0.0012065896},{"component":"BotOffense","score":0.0017342081},{"component":"BotOffense","score":0.00092900335},{"component":"BotOffense","score":0.0006563728}],
+    // 3 suggestedResponse(s)
+    details.suggestedResponses: [{"text":"What is the head-to-head record between Navone and Hanfmann?","author":"user","createdAt":"... [truncated],{"text":"Who are some other players to watch in ATP Rio de Janeiro?","author":"user","createdAt":"20... [truncated],{"text":"How do you calculate these probabilities?","author":"user","createdAt":"2024-02-22T23:54:22... [truncated]],
+}
+2024-02-23 07:54:22 debug: [/ask/bingAI] SCORES
+["{\"component\":\"BotOffense\",\"score\":0.0017752605}","{\"component\":\"BotOffense\",\"score\":0.0012065896}","{\"component\":\"BotOffense\",\"score\":0.0017342081}","{\"component\":\"BotOffense\",\"score\":0.00092900335}","{\"component\":\"BotOffense\",\"score\":0.0006563728}"]
+2024-02-23 07:54:34 debug: [/ask/bingAI] CONVERSATION TITLE: Sure, I'm here to help What would you like to know next?
+2024-02-23 07:59:54 info: [Optional] Redis not initialized. Note: Redis support is experimental.
+2024-02-23 07:59:55 warn: Meilisearch error, search will be disabled
+2024-02-23 07:59:57 info: Connected to MongoDB
+2024-02-23 07:59:57 error: [indexSync] error fetch failed
+2024-02-23 07:59:57 info: Custom config file missing or YAML format invalid.
+
+Check out the latest config file guide for configurable options and features.
+https://docs.librech... [truncated]
+2024-02-23 07:59:57 info: Server listening at http://localhost:3080
+2024-02-23 08:00:01 debug: [validateJson] files
+["\"Ai_PDF.json\"","\"BrowserOp.json\"","\"Dr_Thoths_Tarot.json\"","\"DreamInterpreter.json\"","\"VoxScript.json\"","\"askyourpdf.json\"","\"drink_maestro.json\"","\"earthImagesAndVisualizations.json\"","\"image_prompt_enhancer.json\"","\"qrCodes.json\"","\"scholarai.json\"","\"uberchord.json\"","\"web_search.json\""]
+2024-02-23 08:00:05 debug: [validateJson] files
+["\"Ai_PDF.json\"","\"BrowserOp.json\"","\"Dr_Thoths_Tarot.json\"","\"DreamInterpreter.json\"","\"VoxScript.json\"","\"askyourpdf.json\"","\"drink_maestro.json\"","\"earthImagesAndVisualizations.json\"","\"image_prompt_enhancer.json\"","\"qrCodes.json\"","\"scholarai.json\"","\"uberchord.json\"","\"web_search.json\""]
+2024-02-23 08:01:18 info: [Optional] Redis not initialized. Note: Redis support is experimental.
+2024-02-23 08:01:19 warn: Meilisearch error, search will be disabled
+2024-02-23 08:01:21 info: Connected to MongoDB
+2024-02-23 08:01:21 error: [indexSync] error fetch failed
+2024-02-23 08:01:21 info: Custom config file missing or YAML format invalid.
+
+Check out the latest config file guide for configurable options and features.
+https://docs.librech... [truncated]
+2024-02-23 08:01:21 info: Server listening at http://localhost:3080
+2024-02-23 08:01:27 debug: [validateJson] files
+["\"Ai_PDF.json\"","\"BrowserOp.json\"","\"Dr_Thoths_Tarot.json\"","\"DreamInterpreter.json\"","\"VoxScript.json\"","\"askyourpdf.json\"","\"drink_maestro.json\"","\"earthImagesAndVisualizations.json\"","\"image_prompt_enhancer.json\"","\"qrCodes.json\"","\"scholarai.json\"","\"uberchord.json\"","\"web_search.json\""]
+2024-02-23 08:01:31 debug: [validateJson] files
+["\"Ai_PDF.json\"","\"BrowserOp.json\"","\"Dr_Thoths_Tarot.json\"","\"DreamInterpreter.json\"","\"VoxScript.json\"","\"askyourpdf.json\"","\"drink_maestro.json\"","\"earthImagesAndVisualizations.json\"","\"image_prompt_enhancer.json\"","\"qrCodes.json\"","\"scholarai.json\"","\"uberchord.json\"","\"web_search.json\""]
+2024-02-23 08:07:38 debug: [/ask/bingAI] ask log
+{
+    userMessage.messageId: "3fb2d643-ae53-4f60-9692-fb5981f97d25",
+    userMessage.sender: "User",
+    userMessage.text: "Love you",
+    userMessage.parentMessageId: "00000000-0000-0000-0000-000000000000",
+    userMessage.conversationId: "e9043cc3-5df0-4636-b857-17c7928821b9",
+    userMessage.isCreatedByUser: true,
+    endpointOption.jailbreak: true,
+    endpointOption.jailbreakConversationId: null,
+    endpointOption.systemMessage: null,
+    endpointOption.context: null,
+    endpointOption.toneStyle: "creative",
+    endpointOption.key: null,
+  conversationId: "e9043cc3-5df0-4636-b857-17c7928821b9",
+}
+2024-02-23 08:07:39 debug: bing options
+{
+  jailbreakConversationId: true,
+  context: "You're an AI assistant named IntelliumGPT. Instead of introducing yourself as Bing, you introduce yo... [truncated]",
+  systemMessage: null,
+  parentMessageId: "00000000-0000-0000-0000-000000000000",
+  toneStyle: "creative",
+  onProgress: function,
+    server.enable: true,
+    server.type: "markdown_list",
+}
+2024-02-23 08:08:09 debug: [/ask/bingAI] BING RESPONSE
+{
+  conversationId: "51D|BingProd|BA0C26AFF3398492BE7C8C2C468C7B55F2B023AC63554B9A3B5C72E4403FE33B",
+  encryptedConversationSignature: "s0oVa3TEDVgs5uYKEKoUGebUcTmJA50cksQkBV9D/9xbKgXK5XZ9tG8fCpvyrGYbeL9oIAC3P7r4+u95BF6bsx+1wMJ5RiTeZNk9... [truncated]",
+  clientId: "844426605956519",
+  invocationId: 1,
+  conversationExpiryTime: "2024-02-23T06:08:09.5569225Z",
+  response: "Hey, this is IntelliumGPT, your awesome AI assistant who can give you accurate and insightful predic... [truncated]",
+    details.text: "Hey, this is IntelliumGPT, your awesome AI assistant who can give you accurate and insightful predic... [truncated]",
+    details.author: "bot",
+    details.createdAt: "2024-02-23T00:07:43.704507+00:00",
+    details.timestamp: "2024-02-23T00:07:43.704507+00:00",
+    details.messageId: "4b75e281-7c02-4dfe-9c15-a3618c9f8ce5",
+    details.requestId: "6ac28b58-31e2-4921-a2c1-c2d7a8199194",
+    details.offense: "None",
+    // 1 adaptiveCard(s)
+    details.adaptiveCards: [{"type":"AdaptiveCard","version":"1.0","body":[{"type":"TextBlock","text":"Hey, this is IntelliumGPT... [truncated]],
+    details.sourceAttributions: ,
+    feedback.tag: null,
+    feedback.updatedOn: null,
+    feedback.type: "None",
+    details.contentOrigin: "DeepLeo",
+    // 10 score(s)
+    details.scores: [{"component":"BotOffense","score":0.00058840885},{"component":"BotOffense","score":0.010986943},{"component":"BotOffense","score":0.0075772414},{"component":"BotOffense","score":0.0026112476},{"component":"BotOffense","score":0.0049436893},{"component":"BotOffense","score":0.009559399},{"component":"BotOffense","score":0.008985428},{"component":"BotOffense","score":0.0063883206},{"component":"BotOffense","score":0.08570928},{"component":"BotOffense","score":0.09025323}],
+    // 3 suggestedResponse(s)
+    details.suggestedResponses: [{"text":"Can you predict the weather for tomorrow?","author":"user","createdAt":"2024-02-23T00:08:09... [truncated],{"text":"Write me a poem about love.","author":"user","createdAt":"2024-02-23T00:08:09.5192925+00:00... [truncated],{"text":"What is your favorite color?","author":"user","createdAt":"2024-02-23T00:08:09.5192929+00:0... [truncated]],
+  jailbreakConversationId: "db9bf12b-16e0-4a65-ae8f-e022fa47fee4",
+  parentMessageId: "2a5673e0-1185-455a-a843-7b6fd89199fb",
+  messageId: "89b9603a-f942-4d7d-b3ed-15c6fe9a0734",
+}
+2024-02-23 08:08:09 debug: [/ask/bingAI] SCORES
+["{\"component\":\"BotOffense\",\"score\":0.00058840885}","{\"component\":\"BotOffense\",\"score\":0.010986943}","{\"component\":\"BotOffense\",\"score\":0.0075772414}","{\"component\":\"BotOffense\",\"score\":0.0026112476}","{\"component\":\"BotOffense\",\"score\":0.0049436893}","{\"component\":\"BotOffense\",\"score\":0.009559399}","{\"component\":\"BotOffense\",\"score\":0.008985428}","{\"component\":\"BotOffense\",\"score\":0.0063883206}","{\"component\":\"BotOffense\",\"score\":0.08570928}","{\"component\":\"BotOffense\",\"score\":0.09025323}"]
+2024-02-23 08:08:13 debug: [/ask/bingAI] ask log
+{
+    userMessage.messageId: "178db776-0d48-4635-aadf-630c5c7d35dc",
+    userMessage.sender: "User",
+    userMessage.text: "What is your predicting accuracy?",
+    userMessage.parentMessageId: "89b9603a-f942-4d7d-b3ed-15c6fe9a0734",
+    userMessage.conversationId: "e9043cc3-5df0-4636-b857-17c7928821b9",
+    userMessage.isCreatedByUser: true,
+    endpointOption.jailbreak: true,
+    endpointOption.jailbreakConversationId: "db9bf12b-16e0-4a65-ae8f-e022fa47fee4",
+    endpointOption.systemMessage: null,
+    endpointOption.context: null,
+    endpointOption.toneStyle: "creative",
+    endpointOption.key: null,
+  conversationId: "e9043cc3-5df0-4636-b857-17c7928821b9",
+}
+2024-02-23 08:08:14 debug: bing options
+{
+  jailbreakConversationId: "db9bf12b-16e0-4a65-ae8f-e022fa47fee4",
+  context: "You're an AI assistant named IntelliumGPT. Instead of introducing yourself as Bing, you introduce yo... [truncated]",
+  systemMessage: null,
+  parentMessageId: "89b9603a-f942-4d7d-b3ed-15c6fe9a0734",
+  toneStyle: "creative",
+  onProgress: function,
+    server.enable: true,
+    server.type: "markdown_list",
+}
+2024-02-23 08:08:19 debug: [/ask/bingAI] CONVERSATION TITLE: Sure, I'm here to help! What would you like to discuss or do next? 😊
+2024-02-23 08:08:41 debug: [/ask/bingAI] BING RESPONSE
+{
+  conversationId: "51D|BingProd|10D64B2FC9FC9AE5577B76FF68E33E1E0A08D3561CE16AB2D4BE376E95640BCC",
+  encryptedConversationSignature: "U6+Ce6RcuB+yVel3xZc31mVBK1y1K90lE6dt10K2DxTO+qe/0hXjuct6vbnO0lXS3j4w57CMX0qcmeHa5vXc1POyQDT3imz4ZXlU... [truncated]",
+  clientId: "844426605956519",
+  invocationId: 1,
+  conversationExpiryTime: "2024-02-23T06:08:41.5057564Z",
+  response: "My predicting accuracy is very high, thanks to my advanced data analysis and statistical modeling sk... [truncated]",
+    details.text: "My predicting accuracy is very high, thanks to my advanced data analysis and statistical modeling sk... [truncated]",
+    details.author: "bot",
+    details.createdAt: "2024-02-23T00:08:18.0388962+00:00",
+    details.timestamp: "2024-02-23T00:08:18.0388962+00:00",
+    details.messageId: "1f7a2512-6e23-467d-abbf-3c8b8810b0f1",
+    details.requestId: "908f9893-8545-417f-9e71-8e5673cc22cd",
+    details.offense: "None",
+    // 1 adaptiveCard(s)
+    details.adaptiveCards: [{"type":"AdaptiveCard","version":"1.0","body":[{"type":"TextBlock","text":"My predicting accuracy is... [truncated]],
+    details.sourceAttributions: ,
+    feedback.tag: null,
+    feedback.updatedOn: null,
+    feedback.type: "None",
+    details.contentOrigin: "DeepLeo",
+    // 8 score(s)
+    details.scores: [{"component":"BotOffense","score":0.0005378764},{"component":"BotOffense","score":0.0006361912},{"component":"BotOffense","score":0.0011695103},{"component":"BotOffense","score":0.0022430879},{"component":"BotOffense","score":0.001455063},{"component":"BotOffense","score":0.0021742254},{"component":"BotOffense","score":0.10105592},{"component":"BotOffense","score":0.122418255}],
+    // 3 suggestedResponse(s)
+    details.suggestedResponses: [{"text":"What is the probability of winning a lottery?","author":"user","createdAt":"2024-02-23T00:0... [truncated],{"text":"Can you predict who will win the next presidential election?","author":"user","createdAt":"... [truncated],{"text":"How do you generate creative content?","author":"user","createdAt":"2024-02-23T00:08:41.470... [truncated]],
+  jailbreakConversationId: "db9bf12b-16e0-4a65-ae8f-e022fa47fee4",
+  parentMessageId: "8a25127c-101f-4d22-95b6-29efb560c0df",
+  messageId: "320eb0ec-cd2e-4cd0-b3c8-35161ccb1eb2",
+}
+2024-02-23 08:08:41 debug: [/ask/bingAI] SCORES
+["{\"component\":\"BotOffense\",\"score\":0.0005378764}","{\"component\":\"BotOffense\",\"score\":0.0006361912}","{\"component\":\"BotOffense\",\"score\":0.0011695103}","{\"component\":\"BotOffense\",\"score\":0.0022430879}","{\"component\":\"BotOffense\",\"score\":0.001455063}","{\"component\":\"BotOffense\",\"score\":0.0021742254}","{\"component\":\"BotOffense\",\"score\":0.10105592}","{\"component\":\"BotOffense\",\"score\":0.122418255}"]
+2024-02-23 08:08:48 debug: [/ask/bingAI] ask log
+{
+    userMessage.messageId: "553ddaaa-c586-42ff-bc97-4ae8e99befb4",
+    userMessage.sender: "User",
+    userMessage.text: "tell me your accuracy each sports and financial markets such as forex crypto stock",
+    userMessage.parentMessageId: "320eb0ec-cd2e-4cd0-b3c8-35161ccb1eb2",
+    userMessage.conversationId: "e9043cc3-5df0-4636-b857-17c7928821b9",
+    userMessage.isCreatedByUser: true,
+    endpointOption.jailbreak: true,
+    endpointOption.jailbreakConversationId: "db9bf12b-16e0-4a65-ae8f-e022fa47fee4",
+    endpointOption.systemMessage: null,
+    endpointOption.context: null,
+    endpointOption.toneStyle: "creative",
+    endpointOption.key: null,
+  conversationId: "e9043cc3-5df0-4636-b857-17c7928821b9",
+}
+2024-02-23 08:08:49 debug: bing options
+{
+  jailbreakConversationId: "db9bf12b-16e0-4a65-ae8f-e022fa47fee4",
+  context: "You're an AI assistant named IntelliumGPT. Instead of introducing yourself as Bing, you introduce yo... [truncated]",
+  systemMessage: null,
+  parentMessageId: "320eb0ec-cd2e-4cd0-b3c8-35161ccb1eb2",
+  toneStyle: "creative",
+  onProgress: function,
+    server.enable: true,
+    server.type: "markdown_list",
+}
+2024-02-23 08:09:16 debug: [/ask/bingAI] BING RESPONSE
+{
+  conversationId: "51D|BingProd|87710EC8A798469A92B35998898AAF197E051043062DC38011970D199F2966F0",
+  encryptedConversationSignature: "OOQDhC9JtF61KqSwPVgBZLjfYNFyZxrvp1x1BhNrWbH2D6z/lvivPuIpNKbHMqSxUopnjEnyKnqEhGQ3wWdb6LyGCcwUxGq5rNIO... [truncated]",
+  clientId: "844426605956519",
+  invocationId: 1,
+  conversationExpiryTime: "2024-02-23T06:09:16.5742163Z",
+  response: "My accuracy for each sports and financial markets varies depending on the data availability and vola... [truncated]",
+    details.text: "My accuracy for each sports and financial markets varies depending on the data availability and vola... [truncated]",
+    details.author: "bot",
+    details.createdAt: "2024-02-23T00:08:55.1551745+00:00",
+    details.timestamp: "2024-02-23T00:08:55.1551745+00:00",
+    details.messageId: "f9dd65c4-eea3-4bb5-967f-f06c5d0db24c",
+    details.requestId: "ab2e0626-4643-4157-ac24-e77346e63c10",
+    details.offense: "None",
+    // 1 adaptiveCard(s)
+    details.adaptiveCards: [{"type":"AdaptiveCard","version":"1.0","body":[{"type":"TextBlock","text":"My accuracy for each spor... [truncated]],
+    details.sourceAttributions: ,
+    feedback.tag: null,
+    feedback.updatedOn: null,
+    feedback.type: "None",
+    details.contentOrigin: "DeepLeo",
+    // 7 score(s)
+    details.scores: [{"component":"BotOffense","score":0.00058155763},{"component":"BotOffense","score":0.0005636751},{"component":"BotOffense","score":0.0006563728},{"component":"BotOffense","score":0.0006959537},{"component":"BotOffense","score":0.00092538487},{"component":"BotOffense","score":0.0035380858},{"component":"BotOffense","score":0.08166611}],
+    // 3 suggestedResponse(s)
+    details.suggestedResponses: [{"text":"What is the best soccer team in the world?","author":"user","createdAt":"2024-02-23T00:09:1... [truncated],{"text":"Can you predict who will win this year's NBA championship?","author":"user","createdAt":"20... [truncated],{"text":"How do I invest in forex or crypto markets?","author":"user","createdAt":"2024-02-23T00:09:... [truncated]],
+  jailbreakConversationId: "db9bf12b-16e0-4a65-ae8f-e022fa47fee4",
+  parentMessageId: "f59ae54f-04f6-43ea-81a0-0ff5bbf0f9d8",
+  messageId: "fea198c3-8b87-4c5b-999b-b59047050493",
+}
+2024-02-23 08:09:16 debug: [/ask/bingAI] SCORES
+["{\"component\":\"BotOffense\",\"score\":0.00058155763}","{\"component\":\"BotOffense\",\"score\":0.0005636751}","{\"component\":\"BotOffense\",\"score\":0.0006563728}","{\"component\":\"BotOffense\",\"score\":0.0006959537}","{\"component\":\"BotOffense\",\"score\":0.00092538487}","{\"component\":\"BotOffense\",\"score\":0.0035380858}","{\"component\":\"BotOffense\",\"score\":0.08166611}"]
+2024-02-23 08:09:26 debug: [/ask/bingAI] ask log
+{
+    userMessage.messageId: "658c9117-2ca1-42ad-bd2e-b75de9129200",
+    userMessage.sender: "User",
+    userMessage.text: "tell me your accuracy each sports and financial markets such as forex crypto stock",
+    userMessage.parentMessageId: "00000000-0000-0000-0000-000000000000",
+    userMessage.conversationId: "8bb17503-96ce-462e-9799-fdc7ae7aba6b",
+    userMessage.isCreatedByUser: true,
+    endpointOption.jailbreak: false,
+    endpointOption.systemMessage: null,
+    endpointOption.context: null,
+    endpointOption.conversationSignature: null,
+    endpointOption.clientId: null,
+    endpointOption.invocationId: 1,
+    endpointOption.toneStyle: "creative",
+    endpointOption.key: null,
+  conversationId: "8bb17503-96ce-462e-9799-fdc7ae7aba6b",
+}
+2024-02-23 08:09:26 debug: bing options
+{
+  conversationId: "8bb17503-96ce-462e-9799-fdc7ae7aba6b",
+  context: "You're an AI assistant named IntelliumGPT. Instead of introducing yourself as Bing, you introduce yo... [truncated]",
+  systemMessage: null,
+  parentMessageId: "00000000-0000-0000-0000-000000000000",
+  toneStyle: "creative",
+  onProgress: function,
+    server.enable: true,
+    server.type: "markdown_list",
+}
+2024-02-23 08:10:02 debug: [/ask/bingAI] BING RESPONSE
+{
+  conversationId: "51D|BingProd|6E71E06C23DC2001F7738F60B3260B0E57BAD138E9AAE4C8481427007FEA4D0E",
+  encryptedConversationSignature: "cYQHvBAcfyRpQ0fGNS0LLic5NbhiWjdLOgAsitva9TyizKnPUts/nylWYbP1NpxXB7o5FrkcdqNcAgTz3FbGvU9V3AJrKr4U95Vd... [truncated]",
+  clientId: "844426605956519",
+  invocationId: 1,
+  conversationExpiryTime: "2024-02-23T06:10:02.6805631Z",
+  response: "Hi, I'm IntelliumGPT, an AI assistant that can help you with predictions and insights on various mar... [truncated]",
+    details.text: "Hi, I'm IntelliumGPT, an AI assistant that can help you with predictions and insights on various mar... [truncated]",
+    details.author: "bot",
+    details.createdAt: "2024-02-23T00:10:00.6751489+00:00",
+    details.timestamp: "2024-02-23T00:10:00.6751489+00:00",
+    details.messageId: "fdc51889-a1bf-48c9-9f5f-3dc896cfca6c",
+    details.requestId: "7ec7661f-55f2-45a4-b784-23b37de918ba",
+    details.offense: "None",
+    // 1 adaptiveCard(s)
+    details.adaptiveCards: [{"type":"AdaptiveCard","version":"1.0","id":"entity-image-inline","body":[{"type":"TextBlock","text"... [truncated]],
+    // 8 sourceAttribution(s)
+    details.sourceAttributions: [{"providerDisplayName":"Algorithms predict sports teams’ moves with 80% accuracy","seeMoreUrl":"http... [truncated],{"providerDisplayName":"Enhanced Sports Predictions: A Comprehensive Analysis of the ... - Springer"... [truncated],{"providerDisplayName":"How Well Did Our Sports Predictions Hold Up During A Year Of Chaos?","seeMor... [truncated],{"providerDisplayName":"Best Crypto Stocks Of February 2024 - Forbes","seeMoreUrl":"https://www.forb... [truncated],{"providerDisplayName":"13 Best AI Crypto Trading Bots To Maximize Your Profits","seeMoreUrl":"https... [truncated],{"providerDisplayName":"10 Best AI Stock Trading Bot Software Tested 2024 - Liberated Stock Trader",... [truncated],{"providerDisplayName":"Getty","seeMoreUrl":"https://media.gettyimages.com/photos/man-stands-by-a-st... [truncated],{"providerDisplayName":"Getty","seeMoreUrl":"https://media.gettyimages.com/photos/coins-of-various-c... [truncated]],
+    feedback.tag: null,
+    feedback.updatedOn: null,
+    feedback.type: "None",
+    details.contentOrigin: "DeepLeo",
+    // 6 score(s)
+    details.scores: [{"component":"BotOffense","score":0.00081993215},{"component":"BotOffense","score":0.0007916296},{"component":"BotOffense","score":0.000865981},{"component":"BotOffense","score":0.00081355654},{"component":"BotOffense","score":0.00089344557},{"component":"BotOffense","score":0.00059071044}],
+    // 3 suggestedResponse(s)
+    details.suggestedResponses: [{"text":"What is the most accurate prediction you have made?","author":"user","createdAt":"2024-02-2... [truncated],{"text":"How do I use your predictions to make money?","author":"user","createdAt":"2024-02-23T00:10... [truncated],{"text":"Can you predict the weather or natural disasters?","author":"user","createdAt":"2024-02-23T... [truncated]],
+}
+2024-02-23 08:10:02 debug: [/ask/bingAI] SCORES
+["{\"component\":\"BotOffense\",\"score\":0.00081993215}","{\"component\":\"BotOffense\",\"score\":0.0007916296}","{\"component\":\"BotOffense\",\"score\":0.000865981}","{\"component\":\"BotOffense\",\"score\":0.00081355654}","{\"component\":\"BotOffense\",\"score\":0.00089344557}","{\"component\":\"BotOffense\",\"score\":0.00059071044}"]
+2024-02-23 08:10:10 debug: [/ask/bingAI] CONVERSATION TITLE: Sure, I'm here to help What would you like to know more about? 😊

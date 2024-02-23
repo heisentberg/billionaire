@@ -1,5 +1,4 @@
-import React from 'react';
-import { useGetStartupConfig } from 'librechat-data-provider';
+import { useGetStartupConfig } from 'librechat-data-provider/react-query';
 import { useLocalize } from '~/hooks';
 
 export default function Footer() {
@@ -13,12 +12,12 @@ export default function Footer() {
       ) : (
         <>
           <a
-            href="http://intellium.network"
+            href="https://github.com/danny-avila/LibreChat"
             target="_blank"
             rel="noreferrer"
             className="underline"
           >
-            {config?.appTitle || 'IntelliumGPT '} IntelliumGPT v2.0
+            {config?.appTitle || 'LibreChat'} v0.6.10
           </a>
           {' - '}. {localize('com_ui_pay_per_call')}
         </>

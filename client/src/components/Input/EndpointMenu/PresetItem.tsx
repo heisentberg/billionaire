@@ -44,7 +44,7 @@ export default function PresetItem({
         _title += `: ${toneStyle}`;
       }
       if (jailbreak) {
-        _title += ' as IntGPT Pro';
+        _title += ' as IntGPT';
       }
     } else if (endpoint === EModelEndpoint.chatGPTBrowser) {
       if (model) {

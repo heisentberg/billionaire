@@ -15,7 +15,7 @@ test.describe('Settings suite', () => {
           jailbreak: false,
           context: null,
           systemMessage: null,
-          toneStyle: 'precise',
+          toneStyle: 'creative',
           jailbreakConversationId: null,
           conversationSignature: null,
           clientId: null,
@@ -51,7 +51,7 @@ test.describe('Settings suite', () => {
     } catch (e) {
       // console.log('Sydney button', e);
     }
-    await page.getByRole('option', { name: 'Sydney' }).click();
+    await page.getByRole('option', { name: 'IntGPT' }).click();
     await page.getByRole('tab', { name: 'Balanced' }).click();
 
     // Change Endpoint to see if settings will persist
@@ -69,7 +69,7 @@ test.describe('Settings suite', () => {
     const { jailbreak, toneStyle } = lastBingSettings;
     expect(jailbreak).toBeTruthy();
     expect(toneStyle).toEqual('balanced');
-    const button = page.getByRole('button', { name: 'Mode: Sydney' });
+    const button = page.getByRole('button', { name: 'Mode: IntGPT' });
     expect(button.count()).toBeTruthy();
   });
 });

@@ -1,8 +1,8 @@
 /**
  * Upgrade script
  */
-const dotenv = require('dotenv');
 const fs = require('fs');
+const dotenv = require('dotenv');
 const { exit } = require('process');
 
 // Suppress default warnings
@@ -134,7 +134,7 @@ fs.appendFileSync(
   '\n\n##########################\n# Frontend Vite Variables:\n##########################\n',
 );
 const frontend = {
-  APP_TITLE: initEnv['VITE_APP_TITLE'] || '"IntelliumGPT"',
+  APP_TITLE: initEnv['VITE_APP_TITLE'] || '"LibreChat"',
   ALLOW_REGISTRATION: 'true',
 };
 loader.writeEnvFile(rootEnvPath, frontend);

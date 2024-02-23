@@ -1,13 +1,31 @@
 import { EModelEndpoint } from 'librechat-data-provider';
-import { Plugin, GPTIcon, AnthropicIcon, AzureMinimalIcon } from '~/components/svg';
-import { useAuthContext } from '~/hooks';
+import UnknownIcon from '~/components/Chat/Menus/Endpoints/UnknownIcon';
+import {
+  Plugin,
+  GPTIcon,
+  PaLMIcon,
+  CodeyIcon,
+  GeminiIcon,
+  AssistantIcon,
+  AnthropicIcon,
+  AzureMinimalIcon,
+  CustomMinimalIcon,
+} from '~/components/svg';
+import { useAuthContext } from '~/hooks/AuthContext';
 import { IconProps } from '~/common';
 import { cn } from '~/utils';
 
 const Icon: React.FC<IconProps> = (props) => {
-  const { size = 30, isCreatedByUser, button, model = true, endpoint, error, jailbreak } = props;
-
   const { user } = useAuthContext();
+  const {
+    size = 30,
+    isCreatedByUser,
+    button,
+    model = '',
+    endpoint,
+    jailbreak,
+    assistantName,
+  } = props;
 
   if (isCreatedByUser) {
     const username = user?.name || 'User';
@@ -33,6 +51,27 @@ const Icon: React.FC<IconProps> = (props) => {
     );
   } else {
     const endpointIcons = {
+      [EModelEndpoint.assistants]: {
+        icon: props.iconURL ? (
+          <div
+            title={assistantName}
+            style={{
+              width: size,
+              height: size,
+            }}
+            className={cn('relative flex items-center justify-center', props.className ?? '')}
+          >
+            <img className="rounded-sm" src={props.iconURL} alt={assistantName} />
+          </div>
+        ) : (
+          <div className="h-6 w-6">
+            <div className="relative flex h-full items-center justify-center rounded-full bg-white text-black">
+              <AssistantIcon />
+            </div>
+          </div>
+        ),
+        name: endpoint,
+      },
       [EModelEndpoint.azureOpenAI]: {
         icon: <AzureMinimalIcon size={size * 0.5555555555555556} />,
         bg: 'linear-gradient(0.375turn, #61bde2, #4389d0)',
@@ -52,8 +91,18 @@ const Icon: React.FC<IconProps> = (props) => {
         name: 'Plugins',
       },
       [EModelEndpoint.google]: {
-        icon: <img src="/assets/google-palm.svg" alt="Palm Icon" />,
-        name: 'PaLM2',
+        icon: model?.toLowerCase()?.includes('code') ? (
+          <CodeyIcon size={size * 0.75} />
+        ) : model?.toLowerCase()?.includes('gemini') ? (
+          <GeminiIcon size={size * 0.7} />
+        ) : (
+          <PaLMIcon size={size * 0.7} />
+        ),
+        name: model?.toLowerCase()?.includes('code')
+          ? 'Codey'
+          : model?.toLowerCase()?.includes('gemini')
+            ? 'Gemini'
+            : 'PaLM2',
       },
       [EModelEndpoint.anthropic]: {
         icon: <AnthropicIcon size={size * 0.5555555555555556} />,
@@ -62,9 +111,9 @@ const Icon: React.FC<IconProps> = (props) => {
       },
       [EModelEndpoint.bingAI]: {
         icon: jailbreak ? (
-          <img src="/assets/bingai.png" alt="IntGPT Icon" />
-        ) : (
           <img src="/assets/bingai-jb.png" alt="IntGPT Pro Icon" />
+        ) : (
+          <img src="/assets/bingai.png" alt="IntGPT Icon" />
         ),
         name: jailbreak ? 'IntGPT' : 'IntGPT Pro',
       },
@@ -76,8 +125,22 @@ const Icon: React.FC<IconProps> = (props) => {
             : `rgba(0, 163, 255, ${button ? 0.75 : 1})`,
         name: 'ChatGPT',
       },
+      [EModelEndpoint.custom]: {
+        icon: <CustomMinimalIcon size={size * 0.7} />,
+        name: 'Custom',
+      },
       null: { icon: <GPTIcon size={size * 0.7} />, bg: 'grey', name: 'N/A' },
-      default: { icon: <GPTIcon size={size * 0.7} />, bg: 'grey', name: 'UNKNOWN' },
+      default: {
+        icon: (
+          <UnknownIcon
+            iconURL={props.iconURL}
+            endpoint={endpoint ?? ''}
+            className="icon-sm"
+            context="message"
+          />
+        ),
+        name: endpoint,
+      },
     };
 
     const { icon, bg, name } =
@@ -97,11 +160,11 @@ const Icon: React.FC<IconProps> = (props) => {
         )}
       >
         {icon}
-        {error && (
+        {/* {error && (
           <span className="absolute right-0 top-[20px] -mr-2 flex h-4 w-4 items-center justify-center rounded-full border border-white bg-red-500 text-[10px] text-white">
             !
           </span>
-        )}
+        )} */}
       </div>
     );
   }

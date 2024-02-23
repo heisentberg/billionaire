@@ -1,0 +1,38 @@
+import { UseQueryOptions, UseMutationResult, QueryObserverResult } from '@tanstack/react-query';
+import * as t from '../types';
+import * as s from '../schemas';
+import * as m from '../types/mutations';
+export declare const useAbortRequestWithMessage: () => UseMutationResult<void, Error, {
+    endpoint: string;
+    abortKey: string;
+    message: string;
+}>;
+export declare const useGetUserQuery: (config?: UseQueryOptions<t.TUser>) => QueryObserverResult<t.TUser>;
+export declare const useGetMessagesByConvoId: <TData = t.TMessage[]>(id: string, config?: UseQueryOptions<t.TMessage[], unknown, TData, import("@tanstack/react-query").QueryKey> | undefined) => QueryObserverResult<TData>;
+export declare const useGetUserBalance: (config?: UseQueryOptions<string>) => QueryObserverResult<string>;
+export declare const useGetConversationByIdQuery: (id: string, config?: UseQueryOptions<s.TConversation>) => QueryObserverResult<s.TConversation>;
+export declare const useGetConversationByIdMutation: (id: string) => UseMutationResult<s.TConversation>;
+export declare const useUpdateMessageMutation: (id: string) => UseMutationResult<unknown, unknown, t.TUpdateMessageRequest, unknown>;
+export declare const useUpdateUserKeysMutation: () => UseMutationResult<t.TUser, unknown, t.TUpdateUserKeyRequest, unknown>;
+export declare const useClearConversationsMutation: () => UseMutationResult<unknown>;
+export declare const useRevokeUserKeyMutation: (name: string) => UseMutationResult<unknown>;
+export declare const useRevokeAllUserKeysMutation: () => UseMutationResult<unknown>;
+export declare const useGetConversationsQuery: (pageNumber: string, config?: UseQueryOptions<t.TGetConversationsResponse>) => QueryObserverResult<t.TGetConversationsResponse>;
+export declare const useGetSearchEnabledQuery: (config?: UseQueryOptions<boolean>) => QueryObserverResult<boolean>;
+export declare const useGetEndpointsQuery: <TData = t.TEndpointsConfig>(config?: UseQueryOptions<t.TEndpointsConfig, unknown, TData, import("@tanstack/react-query").QueryKey> | undefined) => QueryObserverResult<TData>;
+export declare const useGetModelsQuery: (config?: UseQueryOptions<t.TModelsConfig>) => QueryObserverResult<t.TModelsConfig>;
+export declare const useCreatePresetMutation: () => UseMutationResult<s.TPreset, unknown, s.TPreset, unknown>;
+export declare const useDeletePresetMutation: () => UseMutationResult<m.PresetDeleteResponse, unknown, s.TPreset | undefined, unknown>;
+export declare const useSearchQuery: (searchQuery: string, pageNumber: string, config?: UseQueryOptions<t.TSearchResults>) => QueryObserverResult<t.TSearchResults>;
+export declare const useUpdateTokenCountMutation: () => UseMutationResult<t.TUpdateTokenCountResponse, unknown, {
+    text: string;
+}, unknown>;
+export declare const useLoginUserMutation: () => UseMutationResult<t.TLoginResponse, unknown, t.TLoginUser, unknown>;
+export declare const useRegisterUserMutation: () => UseMutationResult<unknown, unknown, t.TRegisterUser, unknown>;
+export declare const useRefreshTokenMutation: () => UseMutationResult<t.TRefreshTokenResponse, unknown, unknown, unknown>;
+export declare const useUserKeyQuery: (name: string, config?: UseQueryOptions<t.TCheckUserKeyResponse>) => QueryObserverResult<t.TCheckUserKeyResponse>;
+export declare const useRequestPasswordResetMutation: () => UseMutationResult<t.TRequestPasswordResetResponse, unknown, t.TRequestPasswordReset, unknown>;
+export declare const useResetPasswordMutation: () => UseMutationResult<unknown, unknown, t.TResetPassword, unknown>;
+export declare const useAvailablePluginsQuery: () => QueryObserverResult<s.TPlugin[]>;
+export declare const useUpdateUserPluginsMutation: () => UseMutationResult<t.TUser, unknown, t.TUpdateUserPlugins, unknown>;
+export declare const useGetStartupConfig: () => QueryObserverResult<t.TStartupConfig>;

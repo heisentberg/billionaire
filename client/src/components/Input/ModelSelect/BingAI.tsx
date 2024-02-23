@@ -11,23 +11,27 @@ export default function BingAI({
   showAbove,
   popover = false,
 }: TModelSelectProps) {
-  // TODO: index family bing tone settings, important for multiview
+  // Use Recoil to manage global state
   const showBingToneSetting = useRecoilValue(store.showBingToneSetting);
+  
+  // Return null if no conversation is provided
   if (!conversation) {
     return null;
   }
+
   const { conversationId, toneStyle, jailbreak } = conversation;
+
+  // Return null if conversationId is not 'new' and BingToneSetting should not be shown
   if (conversationId !== 'new' && !showBingToneSetting) {
     return null;
   }
 
-  const defaultClasses =
-    'p-2 rounded-md min-w-[75px] font-normal bg-white/[.60] dark:bg-gray-700 text-black text-xs';
-  const defaultSelected = cn(
-    defaultClasses,
-    'font-medium data-[state=active]:text-white text-xs text-white',
-  );
-  const selectedClass = (val: string) => val + '-tab ' + defaultSelected;
+  // Define default and selected CSS classes
+  const defaultClasses = 'p-2 rounded-md min-w-[75px] font-normal bg-white/[.60] dark:bg-gray-700 text-black text-xs';
+  const defaultSelected = cn(defaultClasses, 'font-medium data-[state=active]:text-white text-xs text-white');
+  const selectedClass = (val: string) => `${val}-tab ${defaultSelected}`;
+
+  // Choose between SelectDropDownPop and SelectDropDown based on popover prop
   const Menu = popover ? SelectDropDownPop : SelectDropDown;
 
   return (
@@ -52,32 +56,18 @@ export default function BingAI({
           cardStyle,
           'z-50 flex h-[40px] flex-none items-center justify-center px-0 hover:bg-slate-50 dark:hover:bg-gray-700',
         )}
-        onValueChange={(value) => setOption('toneStyle')(value.toLowerCase())}
+        onValueChange={(value) => {
+          // Map the visible label to the backend's expected value
+          const backendValue = value === 'GPT-4' ? 'creative' : value.toLowerCase();
+          setOption('toneStyle')(backendValue);
+        }}
       >
         <TabsList className="bg-white/[.60] dark:bg-gray-700">
           <TabsTrigger
-            value="creative"
+            value="GPT-4" // Ensure this matches the `value` in the Tabs component to be selectable
             className={`${toneStyle === 'creative' ? selectedClass('creative') : defaultClasses}`}
           >
-            {'Creative'}
-          </TabsTrigger>
-          <TabsTrigger
-            value="fast"
-            className={`${toneStyle === 'fast' ? selectedClass('fast') : defaultClasses}`}
-          >
-            {'Fast'}
-          </TabsTrigger>
-          <TabsTrigger
-            value="balanced"
-            className={`${toneStyle === 'balanced' ? selectedClass('balanced') : defaultClasses}`}
-          >
-            {'Balanced'}
-          </TabsTrigger>
-          <TabsTrigger
-            value="precise"
-            className={`${toneStyle === 'precise' ? selectedClass('precise') : defaultClasses}`}
-          >
-            {'Precise'}
+            GPT-4
           </TabsTrigger>
         </TabsList>
       </Tabs>
